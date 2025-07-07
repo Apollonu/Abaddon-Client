@@ -1,5 +1,238 @@
 <details close>
 <summary><h2>
+  Template Version - <a href="">1.0.0
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Mods
+    - none
+  - Configs
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+
+<details close>
+<summary><h2>
+  Template Version - <a href="">1.0.0
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Mods
+    - none
+  - Configs
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+
+<details close>
+<summary><h2>
+  Template Version - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6147990">1.1.5
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - [Better ModList](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge)
+    - [Bounced!](https://www.curseforge.com/minecraft/mc-mods/bounced)
+    - [Chat Impressive Animation](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation)
+    - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus) + Config
+    - [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) + [GroovyModLoader](https://www.curseforge.com/minecraft/mc-mods/gml)
+    - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+    - [Forge Config Screens](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge)
+    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) + [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino)
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Mods
+    - [3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+    - [AmbientSounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+    - [Bad Wither No Cookie](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+    - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
+    - [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+    - [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+    - [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium)
+    - [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
+    - [Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config)
+    - [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+    - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+    - [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) (Downgrade)
+    - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+    - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
+    - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+    - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded)
+    - [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer)
+    - [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)
+  - Configs
+    - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud)
+    - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (Controls)
+    - [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair)
+    - [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+    - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
+    - [Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
+    - [Embeddium Options API](https://www.curseforge.com/minecraft/mc-mods/sodium-options-api)
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - [Brute force Rendering Culling](https://www.curseforge.com/minecraft/mc-mods/brute-force-rendering-culling) + Config
+  - Removals
+    - [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)
+</details>
+
+
+<details close>
+<summary><h2>
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6104935">1.1.4
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - [Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
+    - [Embeddium Options API](https://www.curseforge.com/minecraft/mc-mods/sodium-options-api)
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Mods
+    - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud)
+    - [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations)
+    - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)
+    - [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair)
+    - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
+    - [EMI Ores](https://www.curseforge.com/minecraft/mc-mods/emi-ores)
+    - [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium)
+    - [Fog](https://www.curseforge.com/minecraft/mc-mods/fog)
+    - [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
+    - [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg)
+    - [iChunUtil](https://www.curseforge.com/minecraft/mc-mods/ichunutil)
+    - [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+    - [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui)
+    - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed)
+    - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
+    - [Loot Journal](https://www.curseforge.com/minecraft/mc-mods/loot-journal)
+    - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+    - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
+    - [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer)
+    - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded)
+    - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+    - [Sounds](https://modrinth.com/mod/sound)
+    - [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)
+  - Configs
+    - [EMI Ores](https://www.curseforge.com/minecraft/mc-mods/emi-ores)
+    - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
+    - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+- Fixes
+  - F3 Lag
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - [Chloride](https://www.curseforge.com/minecraft/mc-mods/chloride)
+</details>
+
+
+<details close>
+<summary><h2>
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6056967">1.1.3
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - [AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
+    - [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
+    - [Mobtimizations](https://www.curseforge.com/minecraft/mc-mods/mobtimizations)
+    - [Redirector](https://www.curseforge.com/minecraft/mc-mods/redirector)
+    - [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer) + [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
+    - [ThreatenGL](https://www.curseforge.com/minecraft/mc-mods/tgl)
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Mods
+    - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed) (Disabled)
+  - Configs
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+
+<details close>
+<summary><h2>
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6026117">1.1.2
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Mods
+    - none
+  - Configs
+    - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) (Default Shader)
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6026091">1.1.1
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Mods
+    - none
+  - Configs
+    - none
+- Fixes
+  - End Fog
+- Reverts / Removals
+  - Reverts
+    - Some Resourcepacks
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
   Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6020222">1.1.0
 </h2></summary><br>
 
@@ -17,7 +250,7 @@
   - none
 - Reverts / Removals
   - Reverts
-    - [ModList](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge)
+    - none
   - Removals
     - [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)
 </details>
@@ -46,7 +279,7 @@
   - Reverts
     - none
   - Removals
-    - Better Mods Button + Config
+    - [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) + Config
 </details>
 
 <details close>
@@ -163,7 +396,7 @@
   - Mods
     - none
   - Configs
-    - Default Config (Tweaks)
+    - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (Tweaks)
 - Fixes
   - none
 - Reverts / Removals
@@ -218,7 +451,7 @@
   - Mods
     - none
   - Configs
-    - Default
+    - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
 - Fixes
   - none
 - Reverts / Removals
@@ -280,7 +513,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="">0.0.0
+  Template Version - <a href="">1.0.0
 </h2></summary><br>
 
 - Additions
