@@ -1,6 +1,6 @@
 <details close>
 <summary><h2>
-  Template Version - <a href="">1.1.8
+  Template Version - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6511079">1.1.8
 </h2></summary><br>
 
 - Additions
@@ -44,18 +44,46 @@
 - Updates
   - Forge - [47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-changelog.txt)
   - Mods
-    - none
+    - Better Advancements - [0.4.2.25](https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/6010300)
+    - Better Modlist - [0.1.12](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/6293284)
+    - ChatPlus - [2.5.0](https://www.curseforge.com/minecraft/mc-mods/chat-plus/files/6284813)
+    - Dynamic FPS - [3.9.0](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6250841)
+    - Entity Culling - [1.7.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6236056)
+    - Extreme sound muffler - [3.48](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/5498979)
+    - Forgery - [3.5.8](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6285923)
+    - ImmediatelyFast - [1.3.6](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6264746)
+    - Jade - [11.13.1](https://www.curseforge.com/minecraft/mc-mods/jade/files/6271651)
+    - Memory Leak Fix - [1.1.5](https://modrinth.com/mod/memoryleakfix/version/3w0IxNtk)
+    - OctoLib - [0.5.0.1](https://www.curseforge.com/minecraft/mc-mods/octo-lib/files/6274623)
+    - Placebo - [8.6.3](https://www.curseforge.com/minecraft/mc-mods/placebo/files/6274231)
+    - Puzzles Lib -[ 8.1.29](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/6283733)
+    - Resourceful Config - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/resourceful-config/files/6231176)
+    - Rhino - [2001.2.3.10](https://www.curseforge.com/minecraft/mc-mods/rhino/files/6186971)
+    - Save My Shaky Network - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6209658)
+    - Structure Essentials - [4.5](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/6277111)
+    - ToadLib - [1.3.0](https://modrinth.com/mod/toadlib/version/1.3.0-1.20-1.20.1-forge)
   - Configs
+    - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm/files/6224877)
+    - [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance)
+    - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
+    - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
+    - [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged)
   - Resourcepacks / Shaderpacks
-    - none
+    - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6236296)
 - Fixes
-  - none
+  - Legendary Tooltips Lag
 - Reverts / Removals
   - Reverts
     - none
   - Removals
-    - none
+    - [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/camera-overhaul-reforged)
+    - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
+    - [EMI Loot](https://www.curseforge.com/minecraft/mc-mods/emi-loot) (Ported to Abaddon-Vanilla) + [Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config) (Ported to Abaddon-Vanilla)
+    - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) (Ported to Abaddon-Vanilla) + [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (Ported to Abaddon-Vanilla)
+    - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed)
+    - [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core) (Ported to Abaddon-Vanilla)
+    - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Ported to Abaddon-Vanilla)
 </details>
 
 
@@ -68,7 +96,7 @@
   - Mods
     - [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) + [UniLib](https://www.curseforge.com/minecraft/mc-mods/unilib)
     - [GPUTape](https://www.curseforge.com/minecraft/mc-mods/gputape)
-    - [Palladium](https://modrinth.com/mod/mpalladium) + [ToadLib](https://www.curseforge.com/minecraft/mc-mods/toadlib)
+    - [Palladium](https://modrinth.com/mod/mpalladium) + [ToadLib]https://modrinth.com/mod/toadlib)
     - [Raised](https://www.curseforge.com/minecraft/mc-mods/raised)
     - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain)
     - [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
@@ -97,7 +125,7 @@
     - [Fog](https://www.curseforge.com/minecraft/mc-mods/fog)
     - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
     - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain)
-    - [ToadLib](https://www.curseforge.com/minecraft/mc-mods/toadlib)
+    - [ToadLib](https://modrinth.com/mod/toadlib)
     - [World Host](https://www.curseforge.com/minecraft/mc-mods/world-host)
   - Resourcepacks / Shaderpacks
     - none
@@ -146,7 +174,7 @@
     - [Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config)
     - [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
     - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
-    - [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) (Downgrade)
+    - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (Downgrade)
     - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
     - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
     - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
