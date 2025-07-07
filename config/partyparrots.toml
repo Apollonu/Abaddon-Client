@@ -1,0 +1,17 @@
+
+#These configs are general configs that don't fit any other category.
+[general]
+	#Do parrots party when they're on your shoulder?
+	partyShoulder = false
+	#Do parrots party when they're flying?
+	partyFlying = false
+	#Do parrots party when they're standing?
+	partyStanding = false
+	#Do parrots party when they're sitting?
+	partySitting = false
+	#Do parrots party when players twerk?
+	partyTwerk = true
+	#How far do players have to be twerking for parrots to PARTY?!
+	#Range: 2.0 ~ 32.0
+	partyTwerkRange = 5.0
+
