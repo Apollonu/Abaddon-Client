@@ -705,21 +705,21 @@
 
 <details close>
 <summary><h2>
-  Template Version - <a href="">1.2.0</a>
+  Template Version - <a href="">1.2.1</a>
 </h2></summary><br>
 
 - Additions
   - Mods
-    - none - 0.0
+    - none - 0.0.0
   - Resourcepacks / Shaderpacks
-    - none - 0.0
+    - none - 0.0.0
 - Updates
   - Mods
-    - none 0.0 -> 0.0
+    - none 0.0.0 -> 0.0.0
   - Configs
     - none (?)
   - Resourcepacks / Shaderpacks
-    - none 0.0 -> 0.0
+    - none 0.0.0 -> 0.0.0
 - Fixes
   - none
 - Reverts / Removals
