@@ -1,32 +1,93 @@
 <details close>
 <summary><h2>
-  Template Version - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6511079">1.1.8
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6511079">1.1.8</a> (Modern Template)
 </h2></summary><br>
 
 - Additions
   - Mods
-    - none
+    - AsyncParticles - [1.10.1-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6495169)
+    - Better Creative Tabs - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/better-creative-tabs-forge-neoforge/files/5462438)
+    - Biome Music - [3.5](https://www.curseforge.com/minecraft/mc-mods/biome-music/files/6457330)
+    - BlinkLoad - [1.2.1](https://www.curseforge.com/minecraft/mc-mods/blinkload/files/6040110)
+    - Chunk Sending - [2.8](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric/files/4894789)
+    - Clickable advancements - [3.8](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/files/5293987)
+    - Fast Async World Save - [2.4](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric/files/6303144)
+    - FastEvent - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/fast-event/files/6461617)
+    - FastQuit-Forge - [3.0.1](https://www.curseforge.com/minecraft/mc-mods/fastquit-forge/files/6079815)
+    - JEED - [2.2.5](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed/files/6172935)
+    - Krypton Reforged - [0.2.3](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged/files/4606534)
+    - Modern World Creation - [2.0.2](https://www.curseforge.com/minecraft/mc-mods/modernworldcreation/files/6293573) + Konkrete - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/konkrete/files/5028413)
+    - Particle Core - [0.2.6](https://www.curseforge.com/minecraft/mc-mods/particle-core/files/6427560) (Ported From Abaddon Vanilla) + Fzzy Config - [0.6.9](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6405142) (Ported From Abaddon-Vanilla)
+    - Server Country Flags - [1.10.1](https://www.curseforge.com/minecraft/mc-mods/server-country-flags/files/5202427)
+    - ServerCore - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/servercore/files/5929264)
+    - Smooth Chunk Save - [4.1](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/6296598)
+    - Subtle Effects - [1.9.4-hotfix.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6376363)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
   - Mods
-    - none
+    - 3D Skin Layers - [1.7.4](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/5970916) -> [1.7.5](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6356170)
+    - All The Leaks - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/5936734) -> [0.1.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6482449)
+    - Ambient Sounds - [6.1.6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6189864) -> [6.1.9](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6451670)
+    - Auto HUD - [8.2](https://www.curseforge.com/minecraft/mc-mods/auto-hud/files/6098878) -> [8.4](https://www.curseforge.com/minecraft/mc-mods/auto-hud/files/6347110)
+    - BadOptimizations - [2.2.1](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/5961397) -> [2.2.2](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/6475095)
+    - Balm - [7.3.18](https://www.curseforge.com/minecraft/mc-mods/balm/files/6224877) -> [7.3.27](https://www.curseforge.com/minecraft/mc-mods/balm/files/6362504)
+    - CameraOverhaul - [2.0.3](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul/files/6271574) -> [2.0.4](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul/files/6510157)
+    - Chat Heads - [0.13.13](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/6171085) -> [0.13.18](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/6483021)
+    - Chat Impressive Animation - [1.2.1](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/5973750) -> [1.3.0](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/6335420)
+    - ChatPlus - [2.5.0](https://www.curseforge.com/minecraft/mc-mods/chat-plus/files/6284813) -> [2.6.0](https://www.curseforge.com/minecraft/mc-mods/chat-plus/files/6327043)
+    - CraftPresence - [2.5.3](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/6088518) -> [2.6.0](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/6510570)
+    - CreativeCore - [2.12.31](https://www.curseforge.com/minecraft/mc-mods/creativecore/files/6109933) -> [2.12.32](https://www.curseforge.com/minecraft/mc-mods/creativecore/files/6383884)
+    - DynamicFPS - [3.9.0](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6250841) -> [3.9.4](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6501903)
+    - EMI - [1.1.20](https://www.curseforge.com/minecraft/mc-mods/emi/files/6205514) -> [1.1.22](https://www.curseforge.com/minecraft/mc-mods/emi/files/6420945)
+    - EntityCulling - [1.7.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6236056) -> [1.7.4](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6355861)
+    - Flerovium - [1.2.6](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6203111) -> [1.2.10](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6448034)
+    - Forgery - [3.5.8](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6285923) -> [3.6.0](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6469665)
+    - Fusion - [1.2.4](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6183224) -> [1.2.7b](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6453794)
+    - GroovyModLoader - [4.0.9](https://www.curseforge.com/minecraft/mc-mods/gml/files/4761874) -> [4.0.11](https://www.curseforge.com/minecraft/mc-mods/gml/files/6434243)
+    - ImmediatelyFast - [1.3.6](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6264746) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6312293)
+    - lazyyyyy - [0.8.6](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6279172) -> [0.13.2](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6413536)
+    - ModernFix - [5.20.2](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6125143) -> [5.21.0](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6392741)
+    - Not Enough Animations - [1.9.2](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6179086) -> [1.9.3](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6356205)
+    - Palladium - [1.1.5.1](https://modrinth.com/mod/mpalladium/version/1.1.5.1-1.20-1.20.2-forge) -> [1.1.6.1](https://modrinth.com/mod/mpalladium/version/1.1.6.1-1.20-1.20.2)
+    - Puzzles Lib - [8.1.29](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/6283733) -> [8.1.32](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/6387081)
+    - Save My Shaky Network - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6209658) -> [1.1.6](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6433772)
+    - Sound Physics Remastered - [1.4.8](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/5991549) -> [1.4.13](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6399601)
+    - Structure Essentials - [4.5](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/6277111) -> [4.7](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/6420202)
+    - ThreatenGL - [1.3.3-release.1](https://modrinth.com/mod/threatengl/version/mQXGZQva) -> [1.3.3-release.2](https://www.curseforge.com/minecraft/mc-mods/tgl/files/6661231)
+    - ToadLib - [1.3.0](https://modrinth.com/mod/toadlib/version/1.3.0-1.20-1.20.1-forge) -> [1.3.1](https://modrinth.com/mod/toadlib/version/1.3.1-1.20-1.20.1-forge)
+    - TxniLib - [1.0.21](https://www.curseforge.com/minecraft/mc-mods/txnilib/files/6029750) -> [1.0.23](https://www.curseforge.com/minecraft/mc-mods/txnilib/files/6303219)
+    - UniLib - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/unilib/files/6087784) -> [1.1.0](https://www.curseforge.com/minecraft/mc-mods/unilib/files/6509566)
+    - Wavey Capes - [1.5.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6113680) -> [1.5.2](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6357358)
+    - World Host - [0.5.1](https://modrinth.com/mod/world-host/version/0.5.1+1.20.1-forge) -> [0.5.2](https://www.curseforge.com/minecraft/mc-mods/world-host/files/6658865)
+    - YetAnotherConfigLib - [3.6.2](https://www.curseforge.com/minecraft/mc-mods/yacl/files/5963252) -> [3.6.6](https://www.curseforge.com/minecraft/mc-mods/yacl/files/6336646)
   - Configs
-    - none
+    - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music) (Timeless Void)
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) (Resource Packs)
+    - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) (Inventory Culling)
+    - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) (Default Shader, Shadow Distance)
+    - [Party Parrots](https://www.curseforge.com/minecraft/mc-mods/party-parrots)
+    - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags)
+    - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
+    - [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged) (Blocks + Chicken)
+    - [World Play Time](https://www.curseforge.com/minecraft/mc-mods/world-play-time) (Overlaps)
+    - [WorldHost](https://www.curseforge.com/minecraft/mc-mods/world-host) (UPnP)
   - Resourcepacks / Shaderpacks
-    - none
+    - [Midnighttigger's Default Connected Textures](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d) [V5](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6015213) -> [V6](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6074652)
 - Fixes
-  - none
+  - Constant Parrot Dancing
 - Reverts / Removals
   - Reverts
     - none
   - Removals
-    - none
+    - [Dynamic Trim](https://www.curseforge.com/minecraft/mc-mods/dynamic-trim)
+    - [Emiffect](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin)
+    - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain) (Pushed to Abaddon-Vanilla)
 </details>
 
 <details close>
 <summary><h2>
-  Template Version - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6301982">1.1.7
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6301982">1.1.7</a>
 </h2></summary><br>
 
 - Additions
@@ -79,17 +140,17 @@
   - Removals
     - [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/camera-overhaul-reforged)
     - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
-    - [EMI Loot](https://www.curseforge.com/minecraft/mc-mods/emi-loot) (Ported to Abaddon-Vanilla) + [Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config) (Ported to Abaddon-Vanilla)
-    - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) (Ported to Abaddon-Vanilla) + [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (Ported to Abaddon-Vanilla)
+    - [EMI Loot](https://www.curseforge.com/minecraft/mc-mods/emi-loot) (Pushed to Abaddon-Vanilla) + [Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config) (Pushed to Abaddon-Vanilla)
+    - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) (Pushed to Abaddon-Vanilla) + [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (Pushed to Abaddon-Vanilla)
     - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed)
-    - [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core) (Ported to Abaddon-Vanilla)
-    - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Ported to Abaddon-Vanilla)
+    - [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core) (Pushed to Abaddon-Vanilla)
+    - [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (Pushed to Abaddon-Vanilla)
 </details>
 
 
 <details close>
 <summary><h2>
-  Template Version - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6211859">1.1.6
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6211859">1.1.6</a>
 </h2></summary><br>
 
 - Additions
@@ -146,7 +207,7 @@
 
 <details close>
 <summary><h2>
-  Template Version - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6147990">1.1.5
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6147990">1.1.5</a>
 </h2></summary><br>
 
 - Additions
@@ -205,7 +266,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6104935">1.1.4
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6104935">1.1.4</a>
 </h2></summary><br>
 
 - Additions
@@ -257,7 +318,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6056967">1.1.3
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6056967">1.1.3</a>
 </h2></summary><br>
 
 - Additions
@@ -289,7 +350,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6026117">1.1.2
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6026117">1.1.2</a>
 </h2></summary><br>
 
 - Additions
@@ -315,7 +376,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6026091">1.1.1
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6026091">1.1.1</a>
 </h2></summary><br>
 
 - Additions
@@ -341,7 +402,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6020222">1.1.0
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6020222">1.1.0</a>
 </h2></summary><br>
 
 - Additions
@@ -368,7 +429,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/5983475">1.0.9
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/5983475">1.0.9</a>
 </h2></summary><br>
 
 - Additions
@@ -397,7 +458,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/5980501">1.0.8
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/5980501">1.0.8</a>
 </h2></summary><br>
 
 - Additions
@@ -644,21 +705,21 @@
 
 <details close>
 <summary><h2>
-  Template Version - <a href="">1.1.0
+  Template Version - <a href="">1.2.0</a>
 </h2></summary><br>
 
 - Additions
   - Mods
-    - none
+    - none - 0.0
   - Resourcepacks / Shaderpacks
-    - none
+    - none - 0.0
 - Updates
   - Mods
-    - none
+    - none 0.0 -> 0.0
   - Configs
-    - none
+    - none (?)
   - Resourcepacks / Shaderpacks
-    - none
+    - none 0.0 -> 0.0
 - Fixes
   - none
 - Reverts / Removals
