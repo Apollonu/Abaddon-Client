@@ -1,5 +1,82 @@
 <details close>
 <summary><h2>
+  Abaddon Client - <a href="">1.1.9</a> (Nightly)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - Bocchium - [0.0.3](https://www.curseforge.com/minecraft/mc-mods/bocchium/files/5086758)
+    - Cerulean - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/cerulean/files/6489710)
+    - Dimensional Sync Fixes - [0.0.1](https://www.curseforge.com/minecraft/mc-mods/dimensional-sync-fixes/files/4960343)
+    - FastSuite - [5.1.0](https://www.curseforge.com/minecraft/mc-mods/fastsuite/files/6318054)
+    - MemorySweep - [2.0.3](https://www.curseforge.com/minecraft/mc-mods/memorysweep/files/6665986)
+    - Smooth Boot - [0.0.4](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded/files/5016280)
+    - Vanillin - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/vanillin/files/6446560)
+    - XXL Packets - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/xxl-packets/files/5959231)
+  - Resourcepacks / Shaderpacks
+    - none - 0.0.0
+- Updates
+  - Modpack
+    - none 0.0.0 -> 0.0.0
+  - Mods
+    - 3D Skin Layers - [1.7.5](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6356170) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325)
+    - AmbientSounds - [6.1.9](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6451670) -> [6.1.11](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6570130)
+    - Anvian's Lib - [1.1](https://www.curseforge.com/minecraft/mc-mods/anvians-lib/files/6148186) -> [1.2](https://www.curseforge.com/minecraft/mc-mods/anvians-lib/files/6519430)
+    - AsyncParticles - [1.10.1-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6495169) -> [2.1.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6738452)
+    - Auto HUD - [8.4](https://www.curseforge.com/minecraft/mc-mods/auto-hud/files/6347110) -> [8.7](https://www.curseforge.com/minecraft/mc-mods/auto-hud/files/6741332)
+    - BadOptimizations - [2.2.2](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/6475095) -> [2.2.3](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/6673591)
+    - Balm - [7.3.27](https://www.curseforge.com/minecraft/mc-mods/balm/files/6362504) -> [7.3.31](https://www.curseforge.com/minecraft/mc-mods/balm/files/6588893)
+    - CraftPresence - [2.6.0](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/6510570) -> [2.6.1](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/6511328)
+    - Dynamic Crosshair - [9.3](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/5957364) -> [9.6](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6687587)
+    - Dynamic FPS - [3.9.4](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6501903) -> [3.9.5](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6662027)
+    - Elytra Physics - [2.1](https://www.curseforge.com/minecraft/mc-mods/elytra-physics/files/5674910) -> [2.3](https://www.curseforge.com/minecraft/mc-mods/elytra-physics/files/6673404)
+    - Entity Culling - [1.7.4](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6355861) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6734976)
+    - Extreme Sound Muffler - [3.48](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/5498979) -> [3.49.1](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/6526566)
+    - Fast IP Ping - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/5746970) -> [1.0.7](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/6666671)
+    - FastEvent - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/fast-event/files/6461617) -> [1.1.1](https://www.curseforge.com/minecraft/mc-mods/fast-event/files/6527838)
+    - Flerovium - [1.2.10](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6448034) -> [1.2.14](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6594072)
+    - Forgery - [3.6.0](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6469665) -> [3.6.2](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6586436)
+    - Framework - [0.7.12](https://www.curseforge.com/minecraft/mc-mods/framework/files/5911986) -> [0.7.15](https://www.curseforge.com/minecraft/mc-mods/framework/files/6531428)
+    - Fzzy Config - [0.6.9](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6405142) -> [0.7.0](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6582106)
+    - Just Enough Items - [15.20.0.106](https://www.curseforge.com/minecraft/mc-mods/jei/files/6075247) -> [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311)
+    - lazyyyyy - [0.13.2](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6413536) -> [0.14.15](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6739616)
+    - ModernFix - [5.21.0](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6392741) -> [5.24.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6725223)
+    - Not Enough Animations - [1.9.3](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6356205) -> [1.10.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6738627)
+    - Not Enough Crashes - [4.4.7](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge/files/5035999) -> [4.4.9](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge/files/6598273)
+    - Packet Fixer - [2.0.0](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6195870) -> [3.1.2](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6720969)
+    - Raised - [4.0.1](https://www.curseforge.com/minecraft/mc-mods/raised/files/5849491) -> [5.0.0](https://www.curseforge.com/minecraft/mc-mods/raised/files/6700611)
+    - Save My Shaky Network - [1.1.6](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6433772) -> [1.2.3](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6673316)
+    - Structure Essentials - [4.7](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/6420202) -> [4.8](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/6732854)
+    - Subtle Effects - [1.9.4](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6376363) -> [1.11.0](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6635170)
+    - ToadLib - [1.3.1](https://modrinth.com/mod/toadlib/version/1.3.1-1.20-1.20.1-forge) -> [1.3.3](https://modrinth.com/mod/toadlib/version/1.3.3-1.20-1.20.1-forge)
+    - TxniLib - [1.0.23](https://www.curseforge.com/minecraft/mc-mods/txnilib/files/6303219) -> [1.0.24](https://www.curseforge.com/minecraft/mc-mods/txnilib/files/6533724)
+    - Wavey Capes - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6357358) -> [1.6.1.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6738115)
+  - Configs
+    - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud) (Update)
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) (More Universal)
+    - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy) (Fixed)
+    - [MemorySweep](https://www.curseforge.com/minecraft/mc-mods/memorysweep) (Silent)
+    - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) (Fixed, Worldgen Alloc, Remove Spawn Chunks)
+    - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags) (Fixed)
+    - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update Pollen, Fireflies)
+  - Resourcepacks / Shaderpacks
+    - none 0.0.0 -> 0.0.0
+- Fixes
+  - Fast Animated Textures
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - [BlinkLoad](https://www.curseforge.com/minecraft/mc-mods/blinkload)
+    - [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+    - [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine)
+    - [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)
+    - [Retro Damage indicators](https://www.curseforge.com/minecraft/mc-mods/retro-damage-indicators) + Config
+    - [Title Screen Mobs](https://www.curseforge.com/minecraft/mc-mods/title-screen-mobs) + Config
+</details>
+
+<details close>
+<summary><h2>
   Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6511079">1.1.8</a> (Modern Template)
 </h2></summary><br>
 
