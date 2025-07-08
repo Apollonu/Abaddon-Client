@@ -64,7 +64,7 @@
     - World Host - [0.5.1](https://modrinth.com/mod/world-host/version/0.5.1+1.20.1-forge) -> [0.5.2](https://www.curseforge.com/minecraft/mc-mods/world-host/files/6658865)
     - YetAnotherConfigLib - [3.6.2](https://www.curseforge.com/minecraft/mc-mods/yacl/files/5963252) -> [3.6.6](https://www.curseforge.com/minecraft/mc-mods/yacl/files/6336646)
   - Configs
-    - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music) (Timeless Void)
+    - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music) ([Timeless Void](https://www.youtube.com/watch?v=aigojVT4s40))
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) (Resource Packs)
     - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) (Inventory Culling)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) (Default Shader, Shadow Distance)
