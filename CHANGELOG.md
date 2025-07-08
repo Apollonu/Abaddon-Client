@@ -160,7 +160,7 @@
   - Mods
     - [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) + [UniLib](https://www.curseforge.com/minecraft/mc-mods/unilib)
     - [GPUTape](https://www.curseforge.com/minecraft/mc-mods/gputape)
-    - [Palladium](https://modrinth.com/mod/mpalladium) + [ToadLib]https://modrinth.com/mod/toadlib)
+    - [Palladium](https://modrinth.com/mod/mpalladium) + [ToadLib](https://modrinth.com/mod/toadlib)
     - [Raised](https://www.curseforge.com/minecraft/mc-mods/raised)
     - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain)
     - [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
