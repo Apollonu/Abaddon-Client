@@ -62,6 +62,7 @@
   - Resourcepacks / Shaderpacks
     - none 0.0.0 -> 0.0.0
 - Fixes
+  - Almost Positive Fixed Odd Crashes
   - Crash Upon 1st Load
   - Fast Animated Textures
 - Reverts / Removals
@@ -70,6 +71,7 @@
   - Removals
     - [BlinkLoad](https://www.curseforge.com/minecraft/mc-mods/blinkload)
     - [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+    - [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
     - [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine)
     - [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)
     - [Retro Damage indicators](https://www.curseforge.com/minecraft/mc-mods/retro-damage-indicators) + Config
