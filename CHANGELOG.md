@@ -505,7 +505,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - 1.0.7
+  Abaddon Client - 1.0.7 (Unreleased)
 </h2></summary><br>
 
 - Additions
