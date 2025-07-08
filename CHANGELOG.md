@@ -25,6 +25,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - 3D Skin Layers - [1.7.4](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/5970916) -> [1.7.5](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6356170)
     - All The Leaks - [0.1.0](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/5936734) -> [0.1.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6482449)
@@ -103,7 +105,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
-  - Forge - [47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-changelog.txt)
+  - Modpack
+    - Forge - [47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-changelog.txt)
   - Mods
     - Better Advancements - [0.4.2.25](https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/6010300)
     - Better Modlist - [0.1.12](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/6293284)
@@ -167,6 +170,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - [AmbientSounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
     - [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
@@ -223,6 +228,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - [3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
     - [AmbientSounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
@@ -276,6 +283,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud)
     - [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations)
@@ -332,6 +341,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed) (Disabled)
   - Configs
@@ -359,6 +370,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -385,6 +398,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -411,6 +426,8 @@
   - Resourcepacks / Shaderpacks
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -441,6 +458,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -467,6 +486,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -494,6 +515,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -521,6 +544,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -549,6 +574,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) (Disabled)
   - Configs
@@ -575,6 +602,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -608,6 +637,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -634,6 +665,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -661,6 +694,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -687,6 +722,8 @@
   - Resourcepacks / Shaderpacks
     - none
 - Updates
+  - Modpack
+    - none
   - Mods
     - none
   - Configs
@@ -705,7 +742,7 @@
 
 <details close>
 <summary><h2>
-  Template Version - <a href="">1.2.1</a>
+  Template Version - <a href="">1.2.2</a>
 </h2></summary><br>
 
 - Additions
@@ -714,6 +751,8 @@
   - Resourcepacks / Shaderpacks
     - none - 0.0.0
 - Updates
+  - Modpack
+    - none 0.0.0 -> 0.0.0
   - Mods
     - none 0.0.0 -> 0.0.0
   - Configs
