@@ -58,7 +58,7 @@
     - [MemorySweep](https://www.curseforge.com/minecraft/mc-mods/memorysweep) (Silent)
     - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) (Fixed, Worldgen Alloc, Remove Spawn Chunks)
     - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags) (Fixed)
-    - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update Pollen, Fireflies)
+    - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update, Pollen, Fireflies)
   - Resourcepacks / Shaderpacks
     - none 0.0.0 -> 0.0.0
 - Fixes
