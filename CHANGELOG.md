@@ -79,6 +79,8 @@
     - [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
     - [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine)
     - [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)
+    - [Mixin Booster](https://www.curseforge.com/minecraft/mc-mods/mixinbooster)
+    - [MoreBeeInfo](https://www.curseforge.com/minecraft/mc-mods/morebeeinfo) + [Anvian's Lib](https://www.curseforge.com/minecraft/mc-mods/anvians-lib)
     - [Retro Damage indicators](https://www.curseforge.com/minecraft/mc-mods/retro-damage-indicators) + Config
     - [Title Screen Mobs](https://www.curseforge.com/minecraft/mc-mods/title-screen-mobs) + Config
 </details>
