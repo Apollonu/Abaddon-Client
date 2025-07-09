@@ -8,6 +8,7 @@
     - Bocchium - [0.0.3](https://www.curseforge.com/minecraft/mc-mods/bocchium/files/5086758)
     - Cerulean - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/cerulean/files/6489710)
     - Dimensional Sync Fixes - [0.0.1](https://www.curseforge.com/minecraft/mc-mods/dimensional-sync-fixes/files/4960343)
+    - Distraction Free Recipes - [1.2.1](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes/files/6110178)
     - FastSuite - [5.1.0](https://www.curseforge.com/minecraft/mc-mods/fastsuite/files/6318054)
     - Smooth Boot - [0.0.4](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded/files/5016280)
     - Vanillin - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/vanillin/files/6446560)
@@ -54,7 +55,10 @@
   - Configs
     - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud) (Update)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) (More Universal)
+    - [Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy) (Fixed)
+    - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (Anchor)
+    - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) (Disabled Lazy Entity Renderers)
     - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) (Fixed, Worldgen Alloc, Remove Spawn Chunks)
     - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags) (Fixed)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update, Pollen, Fireflies)
