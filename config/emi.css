@@ -22,6 +22,11 @@
 	index-source: creative;
 
 	/**
+	 * Which sidebar should be searched using the search bar.
+	 */
+	search-sidebar: right;
+
+	/**
 	 * Whether normal search queries should include the tooltip.
 	 */
 	search-tooltip-by-default: true;
@@ -77,7 +82,7 @@
 	 * Whether to use the batched render system. Batching is faster, but may have
 	 * incompatibilities with shaders or other mods.
 	 */
-	use-batched-renderer: false;
+	use-batched-renderer: true;
 
 	/**
 	 * Whether to have the search bar in the center of the screen, instead of to the
@@ -172,12 +177,12 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 9, 3;
+	left-sidebar-size: 9, 4;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 2, 0, 0, 2;
+	left-sidebar-margins: 5, 2, 2, 5;
 
 	/**
 	 * Where to position the left sidebar
@@ -187,7 +192,7 @@
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
 	 */
-	left-sidebar-header: visible;
+	left-sidebar-header: invisible;
 
 	/**
 	 * Which theme to use for the left sidebar
@@ -207,17 +212,17 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 17;
+	right-sidebar-size: 12, 10;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 0, 2, 20, 0;
+	right-sidebar-margins: 149, 8, 20, 2;
 
 	/**
 	 * Where to position the right sidebar
 	 */
-	right-sidebar-align: right, bottom;
+	right-sidebar-align: right, top;
 
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
@@ -227,7 +232,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: transparent;
+	right-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the top sidebar
@@ -305,7 +310,7 @@
 	/**
 	 * Toggle the visibility of EMI.
 	 */
-	toggle-visibility: "key.keyboard.keypad.4";
+	toggle-visibility: "ctrl key.keyboard.o";
 
 	/**
 	 * Focuses the search bar.
@@ -334,13 +339,12 @@
 	 * quick access.
 	 */
 	favorite: "key.keyboard.t";
-	favorite: "key.mouse.middle";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
 	 * recipe.
 	 */
-	default-stack: "key.keyboard.unknown";
+	default-stack: "ctrl key.mouse.left";
 
 	/**
 	 * Display the recipe tree for a given stack.
@@ -360,7 +364,7 @@
 	/**
 	 * Return to the next page in EMI after going back.
 	 */
-	forward: "key.keyboard.unknown";
+	forward: "key.mouse.5";
 
 	/**
 	 * When on a stack with an associated recipe:
@@ -401,12 +405,12 @@
 	/**
 	 * Cheat in one of an item into the inventory.
 	 */
-	cheat-one-to-inventory: "ctrl key.mouse.right";
+	cheat-one-to-inventory: "ctrl key.mouse.left";
 
 	/**
 	 * Cheat in a stack of an item into the inventory.
 	 */
-	cheat-stack-to-inventory: "ctrl key.mouse.left";
+	cheat-stack-to-inventory: "ctrl key.mouse.right";
 
 	/**
 	 * Cheat in one of an item into the cursor.
@@ -431,12 +435,12 @@
 	/**
 	 * In edit mode, hide the hovered stack
 	 */
-	hide-stack: "key.keyboard.unknown";
+	hide-stack: "ctrl key.mouse.left";
 
 	/**
 	 * In edit mode, hide stacks with the hovered stack's id
 	 */
-	hide-stack-by-id: "key.keyboard.unknown";
+	hide-stack-by-id: "ctrl shift key.mouse.left";
 }
 
 #dev {
