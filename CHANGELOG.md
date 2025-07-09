@@ -14,10 +14,10 @@
     - Vanillin - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/vanillin/files/6446560)
     - XXL Packets - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/xxl-packets/files/5959231)
   - Resourcepacks / Shaderpacks
-    - none - 0.0.0
+    - none
 - Updates
   - Modpack
-    - none 0.0.0 -> 0.0.0
+    - Forge [47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-changelog.txt) -> [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt)
   - Mods
     - 3D Skin Layers - [1.7.5](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6356170) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325)
     - AmbientSounds - [6.1.9](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6451670) -> [6.1.11](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6570130)
@@ -63,7 +63,7 @@
     - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags) (Fixed)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update, Pollen, Fireflies)
   - Resourcepacks / Shaderpacks
-    - none 0.0.0 -> 0.0.0
+    - none
 - Fixes
   - Crash Upon 1st Load
   - Fast Animated Textures
