@@ -61,7 +61,6 @@
   - Resourcepacks / Shaderpacks
     - none 0.0.0 -> 0.0.0
 - Fixes
-  - Almost Positive Fixed Odd Crashes
   - Crash Upon 1st Load
   - Fast Animated Textures
 - Reverts / Removals
