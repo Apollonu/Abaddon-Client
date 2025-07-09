@@ -37,6 +37,7 @@
     - Forgery - [3.6.0](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6469665) -> [3.6.2](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6586436)
     - Framework - [0.7.12](https://www.curseforge.com/minecraft/mc-mods/framework/files/5911986) -> [0.7.15](https://www.curseforge.com/minecraft/mc-mods/framework/files/6531428)
     - Fzzy Config - [0.6.9](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6405142) -> [0.7.0](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6582106)
+    - ImmediatelyFast - [1.5.0](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6312293) -> [1.5.1](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6745706)
     - Just Enough Items - [15.20.0.106](https://www.curseforge.com/minecraft/mc-mods/jei/files/6075247) -> [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311)
     - lazyyyyy - [0.13.2](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6413536) -> [0.14.15](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6739616)
     - ModernFix - [5.21.0](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6392741) -> [5.24.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6725223)
