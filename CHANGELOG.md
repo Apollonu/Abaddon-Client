@@ -71,11 +71,13 @@
     - [ModListMemory](https://www.curseforge.com/minecraft/mc-mods/modlistmemory)
     - [Mojang Logo Animation](https://www.curseforge.com/minecraft/mc-mods/mojang-logo-animation)
     - [NERB](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
+    - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Resourcify](https://www.curseforge.com/minecraft/mc-mods/resourcify)
     - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags) (Fixed)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update, Pollen, Fireflies)
   - Resourcepacks / Shaderpacks
     - Midnighttigger's Default Connected Textures - [6.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6074652) -> [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771)
+    - Miniature Shader - [2.14.5](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6236296) -> [2.15.0](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6709416)
 - Fixes
   - Crash Upon 1st Load
   - Fast Animated Textures
