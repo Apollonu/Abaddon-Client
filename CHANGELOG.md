@@ -19,7 +19,9 @@
     - Vanillin - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/vanillin/files/6446560)
     - XXL Packets - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/xxl-packets/files/5959231)
   - Resourcepacks / Shaderpacks
+    - CTR VCR - [1.2.2](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6561790)
     - Living Dragon - [1.0.0](https://www.curseforge.com/minecraft/texture-packs/living-dragon/files/4912176)
+    - OPAL Shaders - [1.1.2](https://www.curseforge.com/minecraft/shaders/opal-shaders/files/6350527)
 - Updates
   - Modpack
     - Forge [47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-changelog.txt) -> [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt)
@@ -59,6 +61,7 @@
     - Wavey Capes - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6357358) -> [1.6.1.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6738115)
   - Configs
     - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud) (Update)
+    - [CTR VCR](https://www.curseforge.com/minecraft/shaders/ctr-vcr)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) (Universal, improvements, corrected)
     - [Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
     - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
@@ -72,6 +75,7 @@
     - [Mojang Logo Animation](https://www.curseforge.com/minecraft/mc-mods/mojang-logo-animation)
     - [NERB](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
+    - [OPAL Shaders](https://www.curseforge.com/minecraft/shaders/opal-shaders)
     - [Resourcify](https://www.curseforge.com/minecraft/mc-mods/resourcify)
     - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags) (Fixed)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update, Pollen, Fireflies)
