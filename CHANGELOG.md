@@ -19,7 +19,7 @@
     - Vanillin - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/vanillin/files/6446560)
     - XXL Packets - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/xxl-packets/files/5959231)
   - Resourcepacks / Shaderpacks
-    - none
+    - Living Dragon - [1.0.0](https://www.curseforge.com/minecraft/texture-packs/living-dragon/files/4912176)
 - Updates
   - Modpack
     - Forge [47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-changelog.txt) -> [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt)
@@ -59,9 +59,10 @@
     - Wavey Capes - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6357358) -> [1.6.1.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6738115)
   - Configs
     - [Auto HUD](https://www.curseforge.com/minecraft/mc-mods/auto-hud) (Update)
-    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) (More Universal)
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) (Universal, improvements, corrected)
     - [Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
     - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
+    - [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy) (Fixed)
     - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (Anchor)
     - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) (Disabled Lazy Entity Renderers)
@@ -74,7 +75,7 @@
     - [Server Country Flags](https://www.curseforge.com/minecraft/mc-mods/server-country-flags) (Fixed)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update, Pollen, Fireflies)
   - Resourcepacks / Shaderpacks
-    - none
+    - Midnighttigger's Default Connected Textures - [6.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6074652) -> [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771)
 - Fixes
   - Crash Upon 1st Load
   - Fast Animated Textures
@@ -82,7 +83,9 @@
   - Reverts
     - none
   - Removals
+    - [AmbientSounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) Config
     - [BlinkLoad](https://www.curseforge.com/minecraft/mc-mods/blinkload)
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) Config
     - [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
     - [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
     - [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine)
