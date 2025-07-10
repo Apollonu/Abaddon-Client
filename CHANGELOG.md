@@ -85,7 +85,6 @@
   - Removals
     - [AmbientSounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) Config
     - [BlinkLoad](https://www.curseforge.com/minecraft/mc-mods/blinkload)
-    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings) Config
     - [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
     - [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
     - [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine)
