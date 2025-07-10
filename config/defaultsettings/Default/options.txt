@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Forgery","Forgery grayscale","file/Midnighttiggers-FCT-Default_1.20_V6.zip","file/VanillaTweaks_r445718_MC1.20.x.zip","file/Animated_Furnaces_(1.20).zip"]
-incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V6.zip"]
+resourcePacks:["vanilla","mod_resources","Forgery","Forgery grayscale","fabric","file/Midnighttiggers-FCT-Default_1.20_V7.zip","file/VanillaTweaks_r445718_MC1.20.x.zip","file/Animated_Furnaces_(1.20).zip","file/Living_Dragon_(1.20).zip"]
+incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V7.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -84,15 +84,15 @@ onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-soundCategory_master:0.3
-soundCategory_music:0.1
-soundCategory_record:0.05
-soundCategory_weather:0.7
-soundCategory_block:0.75
-soundCategory_hostile:0.8
-soundCategory_neutral:0.75
-soundCategory_player:0.65
-soundCategory_ambient:1.0
+soundCategory_master:0.30960264900662254
+soundCategory_music:0.25704225352112675
+soundCategory_record:0.08450704225352113
+soundCategory_weather:0.9049295774647887
+soundCategory_block:0.7535211267605634
+soundCategory_hostile:0.7535211267605634
+soundCategory_neutral:0.9014084507042254
+soundCategory_player:1.0
+soundCategory_ambient:0.8063380281690141
 soundCategory_voice:0.0
 modelPart_cape:true
 modelPart_jacket:true
