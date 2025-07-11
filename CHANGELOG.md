@@ -29,7 +29,7 @@
     - 3D Skin Layers - [1.7.5](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6356170) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325)
     - AmbientSounds - [6.1.9](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6451670) -> [6.1.11](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6570130)
     - Anvian's Lib - [1.1](https://www.curseforge.com/minecraft/mc-mods/anvians-lib/files/6148186) -> [1.2](https://www.curseforge.com/minecraft/mc-mods/anvians-lib/files/6519430)
-    - AsyncParticles - [1.10.1-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6495169) -> [2.1.0-beta.4](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6743742)
+    - AsyncParticles - [1.10.1-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6495169) -> [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693)
     - Auto HUD - [8.4](https://www.curseforge.com/minecraft/mc-mods/auto-hud/files/6347110) -> [8.7](https://www.curseforge.com/minecraft/mc-mods/auto-hud/files/6741332)
     - BadOptimizations - [2.2.2](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/6475095) -> [2.3.0](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/6742958)
     - Balm - [7.3.27](https://www.curseforge.com/minecraft/mc-mods/balm/files/6362504) -> [7.3.31](https://www.curseforge.com/minecraft/mc-mods/balm/files/6588893)
