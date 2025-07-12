@@ -18,7 +18,7 @@
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - Starting In Fullscreen
+  - none
 - Reverts / Removals
   - Reverts
     - none
