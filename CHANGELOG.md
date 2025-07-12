@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Stylish Effects - [8.0.2](https://www.curseforge.com/minecraft/mc-mods/stylish-effects/files/5096987)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
@@ -15,6 +15,7 @@
     - none
   - Configs
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
+    - [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
