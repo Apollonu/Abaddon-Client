@@ -14,11 +14,11 @@
   - Mods
     - none
   - Configs
-    - none
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - none
+  - Starting In Fullscreen
 - Reverts / Removals
   - Reverts
     - none
