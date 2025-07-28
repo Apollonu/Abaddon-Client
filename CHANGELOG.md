@@ -13,13 +13,14 @@
     - none
   - Mods
     - 3D Skin Layers - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110)
-    - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.0-beta.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6797966)
+    - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6821656)
     - Balm - [7.3.31](https://www.curseforge.com/minecraft/mc-mods/balm/files/6588893) -> [7.3.33](https://www.curseforge.com/minecraft/mc-mods/balm/files/6784115)
     - Dynamic Crosshair - [9.6](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6687587) -> [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769)
     - EntityCulling - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6734976) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226)
     - Flerovium - [1.2.14](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6594072) -> [1.2.15](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6790332)
     - Fusion - [1.2.7b](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6453794) -> [1.2.9](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6809996)
     - Fzzy Config - [0.7.0](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6582106) -> [0.7.1](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6769263)
+    - lazyyyyy - [0.14.15](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6739616) -> [1.14.17](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6819972)
     - ModernFix - [5.24.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6725223) -> [5.24.3](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6766127)
     - Packet Fixer - [3.1.2](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6720969) -> [3.1.4](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6778805)
     - Resourcify - [1.7.3](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/6690859) -> [1.7.4](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/6787562)
