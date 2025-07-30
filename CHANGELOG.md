@@ -15,6 +15,7 @@
     - 3D Skin Layers - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110)
     - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6821656)
     - Balm - [7.3.31](https://www.curseforge.com/minecraft/mc-mods/balm/files/6588893) -> [7.3.33](https://www.curseforge.com/minecraft/mc-mods/balm/files/6784115)
+    - CruiserImproved - [1.5.1](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.2)
     - Dynamic Crosshair - [9.6](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6687587) -> [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769)
     - EntityCulling - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6734976) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226)
     - Flerovium - [1.2.14](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6594072) -> [1.2.15](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6790332)
