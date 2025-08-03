@@ -13,21 +13,23 @@
     - none
   - Mods
     - 3D Skin Layers - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110)
-    - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6821656)
+    - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6838922)
     - Balm - [7.3.31](https://www.curseforge.com/minecraft/mc-mods/balm/files/6588893) -> [7.3.33](https://www.curseforge.com/minecraft/mc-mods/balm/files/6784115)
     - CruiserImproved - [1.5.1](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.2)
+    - Durability Tooltip - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/4741017) -> [1.1.6](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/6833215)
     - Dynamic Crosshair - [9.6](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6687587) -> [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769)
     - EntityCulling - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6734976) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226)
     - Flerovium - [1.2.14](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6594072) -> [1.2.15](https://www.curseforge.com/minecraft/mc-mods/flerovium/files/6790332)
-    - Fusion - [1.2.7b](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6453794) -> [1.2.9](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6809996)
+    - Fusion - [1.2.7b](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6453794) -> [1.2.10](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6826826)
     - Fzzy Config - [0.7.0](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6582106) -> [0.7.1](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6769263)
     - lazyyyyy - [0.14.15](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6739616) -> [1.14.17](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6819972)
-    - ModernFix - [5.24.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6725223) -> [5.24.3](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6766127)
+    - ModernFix - [5.24.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6725223) -> [5.24.4](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6837713)
     - Packet Fixer - [3.1.2](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6720969) -> [3.1.4](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6778805)
     - Resourcify - [1.7.3](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/6690859) -> [1.7.4](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/6787562)
     - Save My Shaky Network - [1.2.3](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6673316) -> [1.2.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6794630)
     - Sound Physics Remastered - [1.4.13](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6399601) -> [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408)
     - ThreatenGL - [1.3.3](https://www.curseforge.com/minecraft/mc-mods/tgl/files/6661231) -> [2.0.4](https://www.curseforge.com/minecraft/mc-mods/tgl/files/6793015)
+    - ToadLib - [1.3.3](https://modrinth.com/mod/toadlib/version/1.3.3-1.20-1.20.1-forge) -> [1.3.4.1](https://modrinth.com/mod/toadlib/version/1.3.4.1-1.20-1.20.1-forge)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
