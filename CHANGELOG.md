@@ -13,7 +13,7 @@
     - none
   - Mods
     - 3D Skin Layers - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110)
-    - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6838922)
+    - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.2](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6850415)
     - Balm - [7.3.31](https://www.curseforge.com/minecraft/mc-mods/balm/files/6588893) -> [7.3.34](https://www.curseforge.com/minecraft/mc-mods/balm/files/6841886)
     - CruiserImproved - [1.5.1](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.2)
     - Durability Tooltip - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/4741017) -> [1.1.6](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/6833215)
@@ -25,9 +25,11 @@
     - lazyyyyy - [0.14.15](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6739616) -> [1.14.17](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6819972)
     - ModernFix - [5.24.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6725223) -> [5.24.4](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6837713)
     - Packet Fixer - [3.1.2](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6720969) -> [3.1.4](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6778805)
+    - Raised - [5.0.0](https://www.curseforge.com/minecraft/mc-mods/raised/files/6700611) -> [5.0.1](https://www.curseforge.com/minecraft/mc-mods/raised/files/6848664)
     - Resourcify - [1.7.3](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/6690859) -> [1.7.4](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/6787562)
     - Save My Shaky Network - [1.2.3](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6673316) -> [1.2.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6794630)
     - Sound Physics Remastered - [1.4.13](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6399601) -> [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408)
+    - Subtle Effects - [1.11.0](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6635170) -> [1.12.0](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6848179)
     - ThreatenGL - [1.3.3](https://www.curseforge.com/minecraft/mc-mods/tgl/files/6661231) -> [2.0.4](https://www.curseforge.com/minecraft/mc-mods/tgl/files/6793015)
     - ToadLib - [1.3.3](https://modrinth.com/mod/toadlib/version/1.3.3-1.20-1.20.1-forge) -> [1.3.4.1](https://modrinth.com/mod/toadlib/version/1.3.4.1-1.20-1.20.1-forge)
   - Configs
@@ -61,6 +63,7 @@
   - Configs
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects)
+    - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (Update)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
