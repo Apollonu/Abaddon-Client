@@ -15,7 +15,6 @@
     - 3D Skin Layers - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6737325) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110)
     - AsyncParticles - [2.3.0-alpha.1](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6754693) -> [2.3.2](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6850415)
     - Balm - [7.3.31](https://www.curseforge.com/minecraft/mc-mods/balm/files/6588893) -> [7.3.34](https://www.curseforge.com/minecraft/mc-mods/balm/files/6841886)
-    - CruiserImproved - [1.5.1](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.2)
     - Durability Tooltip - [1.1.5](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/4741017) -> [1.1.6](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/6833215)
     - Dynamic Crosshair - [9.6](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6687587) -> [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769)
     - EntityCulling - [1.8.1](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6734976) -> [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226)
