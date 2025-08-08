@@ -5,7 +5,8 @@
 
 - Additions
   - Mods
-    - none
+    - DEUF - [1.3](https://www.curseforge.com/minecraft/mc-mods/deuf-duplicate-entity-uuid-fix/files/4598640)
+    - Snowy Sniffer - [1.0.1](https://modrinth.com/mod/snow-sniffer/version/1.0.1)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
