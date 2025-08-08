@@ -37,11 +37,12 @@
     - UniLib - [1.1.0](https://www.curseforge.com/minecraft/mc-mods/unilib/files/6509566) -> [1.1.1](https://www.curseforge.com/minecraft/mc-mods/unilib/files/6860397)
     - Wavey Capes - [1.6.1.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6738115) -> [1.6.2](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6860137)
   - Configs
+    - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - none
+  - EMI + Shaders
 - Reverts / Removals
   - Reverts
     - none
