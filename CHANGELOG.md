@@ -10,7 +10,7 @@
     - none
 - Updates
   - Modpack
-    - none
+    - Forge [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt) -> [47.4.6](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-changelog.txt)
   - Mods
     - none
   - Configs
