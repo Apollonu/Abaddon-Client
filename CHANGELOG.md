@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Starlight - [1.1.2](https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/4631193)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
