@@ -12,9 +12,11 @@
   - Modpack
     - Forge [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt) -> [47.4.6](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-changelog.txt)
   - Mods
-    - none
+    - All The Leaks - [0.1.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6482449) -> [1.0.0](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6874194)
+    - Save My Shit Network - [1.2.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6794630) -> [1.2.7](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6870619)
+    - ToadLib - [1.3.4.1](https://modrinth.com/mod/toadlib/version/1.3.4.1-1.20-1.20.1-forge) -> [1.3.5](https://modrinth.com/mod/toadlib/version/1.3.5-1.20-1.20.1-forge)
   - Configs
-    - none
+    - [ToadLib](https://modrinth.com/mod/toadlib) (Update)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
