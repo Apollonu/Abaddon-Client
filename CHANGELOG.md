@@ -16,9 +16,12 @@
     - Save My Shit Network - [1.2.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6794630) -> [1.2.7](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6870619)
     - ToadLib - [1.3.4.1](https://modrinth.com/mod/toadlib/version/1.3.4.1-1.20-1.20.1-forge) -> [1.3.5](https://modrinth.com/mod/toadlib/version/1.3.5-1.20-1.20.1-forge)
   - Configs
+    - [CTR VCR](https://www.curseforge.com/minecraft/shaders/ctr-vcr)
+    - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [ToadLib](https://modrinth.com/mod/toadlib) (Update)
   - Resourcepacks / Shaderpacks
-    - none
+    - CTR VCR - [1.2.2](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6561790) -> [1.2.3](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6772057)
+    - Miniature - [2.15.0](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6709416) -> [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529)
 - Fixes
   - none
 - Reverts / Removals
