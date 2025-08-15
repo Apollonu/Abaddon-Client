@@ -17,6 +17,7 @@
     - ToadLib - [1.3.4.1](https://modrinth.com/mod/toadlib/version/1.3.4.1-1.20-1.20.1-forge) -> [1.3.5](https://modrinth.com/mod/toadlib/version/1.3.5-1.20-1.20.1-forge)
   - Configs
     - [CTR VCR](https://www.curseforge.com/minecraft/shaders/ctr-vcr)
+    - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) (Max Distance)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [ToadLib](https://modrinth.com/mod/toadlib) (Update)
   - Resourcepacks / Shaderpacks
