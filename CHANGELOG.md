@@ -226,7 +226,7 @@
   Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6511079">1.1.8</a> (Modern Template)
 </h2></summary><br>
 
-- Additionshttps://www.curseforge.com/minecraft/mc-mods/betterdays/files/6883659
+- Additions
   - Mods
     - AsyncParticles - [1.10.1-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6495169)
     - Better Creative Tabs - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/better-creative-tabs-forge-neoforge/files/5462438)
