@@ -12,7 +12,11 @@
   - Modpack
     - Forge [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt) -> [47.4.6](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-changelog.txt)
   - Mods
+    - 3D Skin Layers - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110) -> [1.9.0](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6879683)
     - All The Leaks - [0.1.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6482449) -> [1.0.0](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6874194)
+    - Better Days - [3.1.1.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/5877548) -> [3.2.0.0](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/6883659)
+    - Chat Impressive Animation - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/6335420) -> [1.4.0](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/6895727)
+    - Forgified Fabric API - [0.92.2+1.11.12](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api/files/6289136) -> [0.92.6+1.11.14](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api/files/6885853)
     - Save My Shit Network - [1.2.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6794630) -> [1.2.7](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6870619)
     - ToadLib - [1.3.4.1](https://modrinth.com/mod/toadlib/version/1.3.4.1-1.20-1.20.1-forge) -> [1.3.5](https://modrinth.com/mod/toadlib/version/1.3.5-1.20-1.20.1-forge)
   - Configs
@@ -222,7 +226,7 @@
   Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6511079">1.1.8</a> (Modern Template)
 </h2></summary><br>
 
-- Additions
+- Additionshttps://www.curseforge.com/minecraft/mc-mods/betterdays/files/6883659
   - Mods
     - AsyncParticles - [1.10.1-beta.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6495169)
     - Better Creative Tabs - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/better-creative-tabs-forge-neoforge/files/5462438)
