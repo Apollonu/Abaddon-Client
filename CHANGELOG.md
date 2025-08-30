@@ -41,7 +41,7 @@
   - Reverts
     - none
   - Removals
-    - none
+    - [DimThreads](https://www.curseforge.com/minecraft/mc-mods/dimthreads)
 </details>
 
 <details close>
