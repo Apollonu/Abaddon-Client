@@ -41,7 +41,7 @@
   - Reverts
     - none
   - Removals
-    - [DimThreads](https://www.curseforge.com/minecraft/mc-mods/dimthreads)
+    - [Dimensional Threading Reforked](https://www.curseforge.com/minecraft/mc-mods/dimthreads)
 </details>
 
 <details close>
