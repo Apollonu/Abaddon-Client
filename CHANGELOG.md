@@ -32,6 +32,7 @@
     - [CTR VCR](https://www.curseforge.com/minecraft/shaders/ctr-vcr)
     - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) (Max Distance)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
+    - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
     - [ToadLib](https://modrinth.com/mod/toadlib) (Update)
   - Resourcepacks / Shaderpacks
     - CTR VCR - [1.2.2](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6561790) -> [1.2.3](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6772057)
