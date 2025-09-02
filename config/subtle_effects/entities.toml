@@ -33,14 +33,14 @@ animalFeedingSoundVolume = 1.0
 [sleeping]
 playerSnoreChance = 0.05659654247330193
 playerSnoreSoundVolume = 0.35086957
-playersHaveSleepingZs = true
+playersHaveSleepingZs = false
 villagerSnoreChance = 0.1203556964254274
 villagerSnoreSoundVolume = 0.35086957
-villagersHaveSleepingZs = true
-foxesHaveSleepingZs = true
-batsHaveSleepingZs = true
-catsHaveSleepingZs = true
-otherMobsHaveSleepingZs = true
+villagersHaveSleepingZs = false
+foxesHaveSleepingZs = false
+batsHaveSleepingZs = false
+catsHaveSleepingZs = false
+otherMobsHaveSleepingZs = false
 displaySleepingZsOnlyWhenSnoring = false
 adjustNameTagWhenSleeping = true
 
