@@ -44,6 +44,7 @@
     - none
   - Removals
     - [Dimensional Threading Reforked](https://www.curseforge.com/minecraft/mc-mods/dimthreads)
+    - [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium)
 </details>
 
 <details close>
