@@ -13,7 +13,7 @@
     - Forge [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt) -> [47.4.6](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-changelog.txt)
   - Mods
     - 3D Skin Layers - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110) -> [1.9.0](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6879683)
-    - All The Leaks - [0.1.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6482449) -> [1.0.2](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6925345)
+    - All The Leaks - [0.1.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6482449) -> [1.0.3](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6954969)
     - AsyncParticles - [2.3.3](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6859776) -> [2.3.6](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6926279)
     - Better Days - [3.1.1.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/5877548) -> [3.2.0.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/6915868)
     - Chat Impressive Animation - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/6335420) -> [1.4.0](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/6895727)
