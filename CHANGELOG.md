@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Gnetum - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/6636372)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
