@@ -5,6 +5,7 @@
 
 - Additions
   - Mods
+    - Cycle Title Screen Splash - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/cycle-title-screen-splash/files/5572750) + Collective - [8.3.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/6429218)
     - Gnetum - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/6636372)
   - Resourcepacks / Shaderpacks
     - none
@@ -29,7 +30,9 @@
     - Save My Shaky Network - [1.2.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6794630) -> [1.2.10](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6953266)
     - ToadLib - [1.3.4.1](https://modrinth.com/mod/toadlib/version/1.3.4.1-1.20-1.20.1-forge) -> [1.3.5](https://modrinth.com/mod/toadlib/version/1.3.5-1.20-1.20.1-forge)
   - Configs
+    - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
     - [CTR VCR](https://www.curseforge.com/minecraft/shaders/ctr-vcr)
+    - [Cycle Title Screen Splash](https://www.curseforge.com/minecraft/mc-mods/cycle-title-screen-splash)
     - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) (Max Distance)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
