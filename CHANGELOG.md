@@ -46,6 +46,7 @@
   - Reverts
     - none
   - Removals
+    - [Delayed Thunder](https://www.curseforge.com/minecraft/mc-mods/delayed-thunder)
     - [Dimensional Threading Reforked](https://www.curseforge.com/minecraft/mc-mods/dimthreads)
     - [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium)
     - [Palladium](https://modrinth.com/mod/mpalladium)
