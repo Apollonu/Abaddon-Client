@@ -7,6 +7,7 @@
   - Mods
     - Cycle Title Screen Splash - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/cycle-title-screen-splash/files/5572750) + Collective - [8.3.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/6429218)
     - Gnetum - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/6636372)
+    - Sound of Rain - [0.4.0](https://www.curseforge.com/minecraft/mc-mods/the-sound-of-rain/files/6828299)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
