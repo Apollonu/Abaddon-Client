@@ -20,6 +20,7 @@
     - Better Days - [3.1.1.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/5877548) -> [3.3.0.0](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/6967071)
     - Chat Impressive Animation - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/6335420) -> [1.4.0](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation/files/6895727)
     - ChatPlus - [2.6.0](https://www.curseforge.com/minecraft/mc-mods/chat-plus/files/6327043) -> [2.7.0](https://www.curseforge.com/minecraft/mc-mods/chat-plus/files/6926350)
+    - Exit Confirmation - [2.5.0](https://www.curseforge.com/minecraft/mc-mods/exit-confirmation/files/4633566)
     - Fast Async World Save - [2.4.0](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric/files/6303144) -> [2.6.0](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric/files/6935203)
     - Forgery - [3.6.2](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6586436) -> [3.6.4](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6953687)
     - Forgified Fabric API - [0.92.2+1.11.12](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api/files/6289136) -> [0.92.6+1.11.14](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api/files/6885853)
