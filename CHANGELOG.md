@@ -35,6 +35,7 @@
     - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
     - [CTR VCR](https://www.curseforge.com/minecraft/shaders/ctr-vcr)
     - [Cycle Title Screen Splash](https://www.curseforge.com/minecraft/mc-mods/cycle-title-screen-splash)
+    - [Exit Confirmation](https://www.curseforge.com/minecraft/mc-mods/exit-confirmation)
     - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) (Max Distance)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
