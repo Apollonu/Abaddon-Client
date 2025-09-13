@@ -1,6 +1,34 @@
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="">1.2.2</a> (Nightly)
+  Abaddon Client - <a href="">1.2.3</a> (Nightly)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - none
+  - Configs
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Abaddon Client - <a href="">1.2.2</a> (Upcoming)
 </h2></summary><br>
 
 - Additions
