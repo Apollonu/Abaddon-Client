@@ -53,7 +53,7 @@
     - none
   - Removals
     - [Delayed Thunder](https://www.curseforge.com/minecraft/mc-mods/delayed-thunder)
-    - [Dimensional Threading Reforked](https://www.curseforge.com/minecraft/mc-mods/dimthreads)
+    - [Dimensional Threading Reforked](https://www.curseforge.com/minecraft/mc-mods/dimthreads) + Config
     - [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium)
     - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) Config
     - [Palladium](https://modrinth.com/mod/mpalladium)
