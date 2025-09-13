@@ -39,6 +39,7 @@
     - [Cycle Title Screen Splash](https://www.curseforge.com/minecraft/mc-mods/cycle-title-screen-splash)
     - [Exit Confirmation](https://www.curseforge.com/minecraft/mc-mods/exit-confirmation)
     - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) (Max Distance)
+    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Missing Mod Icon)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
     - [ToadLib](https://modrinth.com/mod/toadlib) (Update)
