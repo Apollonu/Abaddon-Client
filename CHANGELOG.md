@@ -28,7 +28,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="">1.2.2</a> (Upcoming)
+  Abaddon Client - <a href="">1.2.2</a> (Current Release)
 </h2></summary><br>
 
 - Additions
@@ -89,7 +89,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6865302">1.2.1</a> (Current Release)
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6865302">1.2.1</a>
 </h2></summary><br>
 
 - Additions
