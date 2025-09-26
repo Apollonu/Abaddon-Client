@@ -14,12 +14,14 @@
   - Mods
     - Better Days - [3.3.0.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/6990349) -> [3.3.4.4](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/7013807)
     - Chat Heads - [0.13.18](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/6483021) -> [0.13.21](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/7014791)
+    - Farsight - [3.7.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/5531397) -> [4.5.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/7016585)
     - ImmediatelyFast - [1.5.1](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6745706) -> [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261)
     - JEBr - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/6991716) -> [2.1.1](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7005727)
     - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.113](https://www.curseforge.com/minecraft/mc-mods/jei/files/7014291)
     - lazyyyyy - [1.14.17](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6819972) -> [1.14.19](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/7010786)
     - Loot Journal - [4.0.2](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/5813449) -> [5.0.1](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/6998294)
-    - Sound Physics Remastered - [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408) -> [1.5.0](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7011884)
+    - Save My Shaky Network - [1.2.10](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6953266) -> [1.3.1](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7032354)
+    - Sound Physics Remastered - [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408) -> [1.5.1](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7032235)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
