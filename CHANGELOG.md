@@ -38,7 +38,7 @@
     - Sound Physics Remastered - [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408) -> [1.5.1](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7032235)
     - Subtle Effects - [1.12.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6857365) -> [1.13.0](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/7064192)
   - Configs
-    - none
+    - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
