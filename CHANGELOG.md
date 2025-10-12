@@ -12,16 +12,31 @@
   - Modpack
     - none
   - Mods
-    - Better Days - [3.3.0.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/6990349) -> [3.3.4.4](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/7013807)
-    - Chat Heads - [0.13.18](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/6483021) -> [0.13.21](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/7014791)
+    - 3D Skin Layers - [1.9.0](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6879683) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/7091094)
+    - All The Leaks - [1.0.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6967574) -> [1.0.7](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/7065024)
+    - AsyncParticles - [2.3.8](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/6963094) -> [2.3.10](https://www.curseforge.com/minecraft/mc-mods/asyncparticles/files/7074162)
+    - BadOptimizations - [2.3.0](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/6742958) -> [2.3.1](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/7055630)
+    - Balm - [7.3.35](https://www.curseforge.com/minecraft/mc-mods/balm/files/6978679) -> [7.3.37](https://www.curseforge.com/minecraft/mc-mods/balm/files/7087245)
+    - Better Days - [3.3.0.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/6990349) -> [3.3.4.5](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/7046761)
+    - Chat Heads - [0.13.18](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/6483021) -> [0.14.0](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/7057824)
+    - Collective - [8.3.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/6429218) -> [8.7.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/7062349)
+    - Dynamic Crosshair - [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769) -> [9.10.0](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/7082934)
+    - EntityCulling - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226) -> [1.9.0](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7078979)
     - Farsight - [3.7.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/5531397) -> [4.5.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/7016585)
+    - Forgery - [3.6.4](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6953687) -> [3.6.5](https://www.curseforge.com/minecraft/mc-mods/forgery/files/7051720)
+    - Fzzy Config - [0.7.2](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6843463) -> [0.7.3](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7085017)
+    - Gnetum - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/6636372) -> [2.2.2](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/7068045)
+    - Just Enough Items - [15.20.0.113](https://www.curseforge.com/minecraft/mc-mods/jei/files/7014291) -> [15.20.0.116](https://www.curseforge.com/minecraft/mc-mods/jei/files/7037120)
     - ImmediatelyFast - [1.5.1](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6745706) -> [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261)
-    - JEBr - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/6991716) -> [2.1.1](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7005727)
+    - JEBr - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/6991716) -> [2.2.1](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7056485)
     - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.113](https://www.curseforge.com/minecraft/mc-mods/jei/files/7014291)
     - lazyyyyy - [1.14.17](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6819972) -> [1.14.19](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/7010786)
     - Loot Journal - [4.0.2](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/5813449) -> [5.0.1](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/6998294)
+    - Not Enough Animations - [1.10.2](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6931592) -> [1.10.3.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7083473)
+    - Raised - [5.0.1](https://www.curseforge.com/minecraft/mc-mods/raised/files/6848664) -> [5.0.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7067732)
     - Save My Shaky Network - [1.2.10](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6953266) -> [1.3.1](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7032354)
     - Sound Physics Remastered - [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408) -> [1.5.1](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7032235)
+    - Subtle Effects - [1.12.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6857365) -> [1.13.0](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/7064192)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
