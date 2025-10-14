@@ -32,7 +32,7 @@
     - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.113](https://www.curseforge.com/minecraft/mc-mods/jei/files/7014291)
     - lazyyyyy - [1.14.17](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6819972) -> [1.14.19](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/7010786)
     - Loot Journal - [4.0.2](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/5813449) -> [5.0.1](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/6998294)
-    - Not Enough Animations - [1.10.2](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6931592) -> [1.10.3.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7083473)
+    - Not Enough Animations - [1.10.2](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6931592) -> [1.10.4.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7100449)
     - Raised - [5.0.1](https://www.curseforge.com/minecraft/mc-mods/raised/files/6848664) -> [5.0.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7067732)
     - Save My Shaky Network - [1.2.10](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6953266) -> [1.3.1](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7032354)
     - Sound Physics Remastered - [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408) -> [1.5.1](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7032235)
