@@ -48,7 +48,7 @@
   - Reverts
     - none
   - Removals
-    - none
+    - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
 </details>
 
 <details close>
