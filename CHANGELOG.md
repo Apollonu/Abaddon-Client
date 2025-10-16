@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
