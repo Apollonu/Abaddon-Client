@@ -41,6 +41,7 @@
     - Subtle Effects - [1.12.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6857365) -> [1.13.0](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/7064192)
   - Configs
     - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music)
+    - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
   - Resourcepacks / Shaderpacks
     - none
