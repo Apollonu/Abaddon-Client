@@ -5,6 +5,7 @@
 
 - Additions
   - Mods
+    - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
   - Resourcepacks / Shaderpacks
     - none
@@ -51,6 +52,7 @@
   - Reverts
     - none
   - Removals
+    - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) + Config
     - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
 </details>
 
