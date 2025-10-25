@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Forgery","Forgery grayscale","fabric","file/Midnighttiggers-FCT-Default_1.20_V7.zip","file/VanillaTweaks_r445718_MC1.20.x.zip","file/Animated_Furnaces_(1.20).zip","file/Living_Dragon_(1.20).zip"]
-incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V7.zip"]
+resourcePacks:["vanilla","mod_resources","Forgery","Forgery grayscale","fabric","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/VanillaTweaks_r445718_MC1.20.x.zip","file/Animated_Furnaces_(1.20).zip","file/Living_Dragon_(1.20).zip"]
+incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V8.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -85,7 +85,7 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 soundCategory_master:0.30960264900662254
-soundCategory_music:0.25704225352112675
+soundCategory_music:0.30985915492957744
 soundCategory_record:0.08450704225352113
 soundCategory_weather:0.9049295774647887
 soundCategory_block:0.7535211267605634
