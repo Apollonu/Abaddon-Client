@@ -10,8 +10,7 @@
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
   - Resourcepacks / Shaderpacks
-    - Midnighttigger's Default Connected Textures - [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771) -> [8.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6913011)
-    - Miniature Shader - [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529) -> [2.18.4](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/7104824)
+    - none
 - Updates
   - Modpack
     - Forge - [47.4.8](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.8/forge-1.20.1-47.4.8-changelog.txt)
@@ -52,9 +51,11 @@
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
+    - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
   - Resourcepacks / Shaderpacks
-    - none
+    - Midnighttigger's Default Connected Textures - [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771) -> [8.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6913011)
+    - Miniature Shader - [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529) -> [2.18.4](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/7104824)
 - Fixes
   - none
 - Reverts / Removals
