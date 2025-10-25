@@ -7,6 +7,7 @@
   - Mods
     - DamageVignette - [2.0.2](https://modrinth.com/mod/damagevignette/version/Ekre1nh1)
     - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
+    - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
   - Resourcepacks / Shaderpacks
     - none
