@@ -50,6 +50,7 @@
     - [DamageVignette](https://modrinth.com/mod/damagevignette)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
+    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
