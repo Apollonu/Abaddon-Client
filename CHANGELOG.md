@@ -10,10 +10,11 @@
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
   - Resourcepacks / Shaderpacks
-    - none
+    - Midnighttigger's Default Connected Textures - [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771) -> [8.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6913011)
+    - Miniature Shader - [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529) -> [2.18.4](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/7104824)
 - Updates
   - Modpack
-    - none
+    - Forge - [47.4.8](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.8/forge-1.20.1-47.4.8-changelog.txt)
   - Mods
     - 3D Skin Layers - [1.9.0](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6879683) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/7091094)
     - All The Leaks - [1.0.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6967574) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/7107566)
@@ -48,7 +49,9 @@
   - Configs
     - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music)
     - [DamageVignette](https://modrinth.com/mod/damagevignette)
+    - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
+    - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
   - Resourcepacks / Shaderpacks
     - none
@@ -109,7 +112,7 @@
     - [ToadLib](https://modrinth.com/mod/toadlib) (Update)
   - Resourcepacks / Shaderpacks
     - CTR VCR - [1.2.2](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6561790) -> [1.2.3](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6772057)
-    - Miniature - [2.15.0](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6709416) -> [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529)
+    - Miniature Shader - [2.15.0](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6709416) -> [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529)
 - Fixes
   - none
 - Reverts / Removals
