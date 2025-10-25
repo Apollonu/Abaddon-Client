@@ -59,7 +59,7 @@
   - none
 - Reverts / Removals
   - Reverts
-    - none
+    - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) Config
   - Removals
     - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) + Config
     - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
