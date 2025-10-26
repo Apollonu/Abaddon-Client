@@ -24,7 +24,7 @@
     - Better Days - [3.3.0.1](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/6990349) -> [3.3.4.5](https://www.curseforge.com/minecraft/mc-mods/betterdays/files/7046761)
     - Better ModList - [0.1.12](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/6293284) -> [0.1.13](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/7054780)
     - Chat Heads - [0.13.18](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/6483021) -> [0.14.0](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/7057824)
-    - Collective - [8.3.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/6429218) -> [8.12.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/7138945)
+    - Collective - [8.3.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/6429218) -> [8.13.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/7148968)
     - CraftPresence - [2.6.2](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/6860408) -> [2.7.0](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/7146452)
     - Dynamic Crosshair - [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769) -> [9.10.0](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/7082934)
     - EntityCulling - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7125341)
