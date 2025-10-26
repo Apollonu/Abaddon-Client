@@ -8,6 +8,7 @@
     - DamageVignette - [2.0.2](https://modrinth.com/mod/damagevignette/version/Ekre1nh1)
     - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
+    - Lighty - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/lighty/files/5177516)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
   - Resourcepacks / Shaderpacks
     - none
@@ -51,6 +52,7 @@
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+    - [Lighty](https://www.curseforge.com/minecraft/mc-mods/lighty)
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
