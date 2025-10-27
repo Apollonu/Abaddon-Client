@@ -5,6 +5,7 @@
 
 - Additions
   - Mods
+    - Bad Horse Fix - [3.0.1](https://www.curseforge.com/minecraft/mc-mods/bad-horse-fix/files/6910120)
     - DamageVignette - [2.0.2](https://modrinth.com/mod/damagevignette/version/Ekre1nh1)
     - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
