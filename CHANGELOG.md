@@ -6,6 +6,7 @@
 - Additions
   - Mods
     - Bad Horse Fix - [3.0.1](https://www.curseforge.com/minecraft/mc-mods/bad-horse-fix/files/6910120)
+    - Better Clouds - [1.3.37](https://www.curseforge.com/minecraft/mc-mods/better-clouds/files/7074847)
     - DamageVignette - [2.0.2](https://modrinth.com/mod/damagevignette/version/Ekre1nh1)
     - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
@@ -48,6 +49,7 @@
     - Subtle Effects - [1.12.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6857365) -> [1.13.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/7139104)
     - UniLib - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/unilib/files/6860397) -> [1.2.0](https://www.curseforge.com/minecraft/mc-mods/unilib/files/7145192)
   - Configs
+    - [Better Clouds](https://www.curseforge.com/minecraft/mc-mods/better-clouds)
     - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music)
     - [DamageVignette](https://modrinth.com/mod/damagevignette)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
