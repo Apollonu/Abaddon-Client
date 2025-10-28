@@ -11,6 +11,7 @@
     - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
     - Lighty - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/lighty/files/5177516)
+    - Performance Tweaks - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/performance-tweaks/files/6282561)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
     - Wakes Reforged - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/6519189)
   - Resourcepacks / Shaderpacks
@@ -70,6 +71,7 @@
   - Reverts
     - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) Config
   - Removals
+    - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
     - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) + Config
     - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
 </details>
