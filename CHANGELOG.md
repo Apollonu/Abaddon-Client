@@ -12,6 +12,7 @@
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
     - Lighty - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/lighty/files/5177516)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
+    - Wakes Reforged - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/6519189)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
@@ -59,6 +60,7 @@
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
+    - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
   - Resourcepacks / Shaderpacks
     - Midnighttigger's Default Connected Textures - [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771) -> [8.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6913011)
     - Miniature Shader - [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529) -> [2.18.4](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/7104824)
