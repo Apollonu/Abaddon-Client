@@ -13,7 +13,7 @@
     - Lighty - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/lighty/files/5177516)
     - Performance Tweaks - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/performance-tweaks/files/6282561)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
-    - Wakes Reforged - [1.0.5](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/6519189)
+    - Wakes Reforged - [1.0.6](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7166099)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
@@ -32,7 +32,7 @@
     - CraftPresence - [2.6.2](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/6860408) -> [2.7.0](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/7146452)
     - Cursors Extended - [3.10.0](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/6902447) -> [3.11.1](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7158236)
     - Dynamic Crosshair - [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769) -> [9.10.0](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/7082934)
-    - EntityCulling - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7125341)
+    - EntityCulling - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226) -> [1.9.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7167800)
     - Farsight - [3.7.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/5531397) -> [4.5.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/7016585)
     - Forgery - [3.6.4](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6953687) -> [3.6.5](https://www.curseforge.com/minecraft/mc-mods/forgery/files/7051720)
     - Fzzy Config - [0.7.2](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6843463) -> [0.7.3](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7085017)
@@ -51,6 +51,7 @@
     - Structure Layout Optimizer- [1.0.10](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer/files/6125412) -> [1.0.11](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer/files/7139029)
     - Subtle Effects - [1.12.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6857365) -> [1.13.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/7139104)
     - UniLib - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/unilib/files/6860397) -> [1.2.0](https://www.curseforge.com/minecraft/mc-mods/unilib/files/7145192)
+    - Wavey Capes - [1.6.2](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6860137) -> [1.7.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7168133)
   - Configs
     - [Better Clouds](https://www.curseforge.com/minecraft/mc-mods/better-clouds)
     - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music)
