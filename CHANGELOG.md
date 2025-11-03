@@ -41,7 +41,6 @@
     - ImmediatelyFast - [1.5.1](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6745706) -> [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261)
     - JEBr - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/6991716) -> [2.2.1](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7056485)
     - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.113](https://www.curseforge.com/minecraft/mc-mods/jei/files/7014291)
-    - lazyyyyy - [1.14.17](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/6819972) -> [1.14.19](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy/files/7010786)
     - Loot Journal - [4.0.2](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/5813449) -> [5.0.1](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/6998294)
     - ModListMemory - [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/6282832) -> [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/7112105)
     - Not Enough Animations - [1.10.2](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6931592) -> [1.10.6](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7129302)
@@ -75,8 +74,9 @@
   - Removals
     - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
     - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) + Config
-    - [Lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy)
+    - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy)
     - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
+    - [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
     - [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements) + Config
 </details>
 
