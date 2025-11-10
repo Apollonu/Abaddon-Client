@@ -62,6 +62,7 @@
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
     - [Lighty](https://www.curseforge.com/minecraft/mc-mods/lighty)
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
+    - [NERB](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
     - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
