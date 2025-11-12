@@ -12,6 +12,7 @@
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
     - Lighty - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/lighty/files/5177516)
     - Performance Tweaks - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/performance-tweaks/files/6282561)
+    - Stellar View - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/stellarview/files/7177902)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
     - Wakes Reforged - [1.0.6](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7166099)
   - Resourcepacks / Shaderpacks
@@ -64,6 +65,7 @@
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
     - [NERB](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
+    - [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
     - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
   - Resourcepacks / Shaderpacks
