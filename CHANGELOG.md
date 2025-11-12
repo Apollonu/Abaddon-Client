@@ -77,6 +77,7 @@
   - Removals
     - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
     - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) + Config
+    - [Caelum](https://www.curseforge.com/minecraft/mc-mods/caelum)
     - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy)
     - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
     - [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
