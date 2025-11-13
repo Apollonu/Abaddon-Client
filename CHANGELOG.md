@@ -15,6 +15,7 @@
     - Stellar View - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/stellarview/files/7177902)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
     - Wakes Reforged - [1.0.6](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7166099)
+    - World Preview - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/world-preview/files/5686690)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
