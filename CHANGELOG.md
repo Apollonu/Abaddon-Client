@@ -83,6 +83,7 @@
     - [Caelum](https://www.curseforge.com/minecraft/mc-mods/caelum)
     - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy)
     - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
+    - [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
     - [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
     - [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements) + Config
 </details>
