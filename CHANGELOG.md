@@ -70,6 +70,7 @@
     - [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview)
     - [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects)
     - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
+    - [World Preview](https://www.curseforge.com/minecraft/mc-mods/world-preview)
   - Resourcepacks / Shaderpacks
     - Midnighttigger's Default Connected Textures - [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771) -> [8.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6913011)
     - Miniature Shader - [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529) -> [2.18.4](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/7104824)
