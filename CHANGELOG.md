@@ -33,13 +33,13 @@
     - Chat Heads - [0.13.18](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/6483021) -> [0.14.2](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/7211700)
     - Collective - [8.3.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/6429218) -> [8.13.0](https://www.curseforge.com/minecraft/mc-mods/collective/files/7148968)
     - CraftPresence - [2.6.2](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/6860408) -> [2.7.0](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/7146452)
-    - Cursors Extended - [3.10.0](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/6902447) -> [3.11.1](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7158236)
+    - Cursors Extended - [3.10.0](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/6902447) -> [3.11.2](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7222136)
     - Dynamic Crosshair - [9.8](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/6779769) -> [9.10.0](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair/files/7082934)
     - EntityCulling - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/6780226) -> [1.9.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7167800)
     - Farsight - [3.7.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/5531397) -> [4.5.0](https://www.curseforge.com/minecraft/mc-mods/farsight/files/7016585)
     - Forgery - [3.6.4](https://www.curseforge.com/minecraft/mc-mods/forgery/files/6953687) -> [3.6.5](https://www.curseforge.com/minecraft/mc-mods/forgery/files/7051720)
     - Fzzy Config - [0.7.2](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/6843463) -> [0.7.3](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7085017)
-    - Gnetum - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/6636372) -> [2.3.0](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/7176493)
+    - Gnetum - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/6636372) -> [2.3.1](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/7224441)
     - ImmediatelyFast - [1.5.1](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6745706) -> [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261)
     - JEBr - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/6991716) -> [2.3.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7195982)
     - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.118](https://www.curseforge.com/minecraft/mc-mods/jei/files/7181650)
@@ -47,6 +47,7 @@
     - ModernFix - [5.24.4](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6837713) -> [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213)
     - ModListMemory - [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/6282832) -> [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/7112105)
     - Not Enough Animations - [1.10.2](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/6931592) -> [1.10.6](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7129302)
+    - Packet Fixer - [3.3.0](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/6940439) - [3.3.1](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/7221527)
     - Raised - [5.0.1](https://www.curseforge.com/minecraft/mc-mods/raised/files/6848664) -> [5.0.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7067732)
     - Resourcify - [1.7.4](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/6787562) -> [1.7.5](https://www.curseforge.com/minecraft/mc-mods/resourcify/files/7174440)
     - Save My Shaky Network - [1.2.10](https://www.curseforge.com/minecraft/mc-mods/smsn/files/6953266) -> [1.3.2](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7160731)
@@ -106,7 +107,7 @@
     - none
 - Updates
   - Modpack
-    - Forge [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt) -> [47.4.8](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.8/forge-1.20.1-47.4.8-changelog.txt)
+    - Forge [47.4.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-changelog.txt) -> [47.4.8](https://maven.minecraftforge.net/net/minehttps://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7222136craftforge/forge/1.20.1-47.4.8/forge-1.20.1-47.4.8-changelog.txt)
   - Mods
     - 3D Skin Layers - [1.8.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6780110) -> [1.9.0](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6879683)
     - All The Leaks - [0.1.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6482449) -> [1.0.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6967574)
