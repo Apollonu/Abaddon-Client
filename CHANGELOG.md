@@ -15,7 +15,7 @@
     - Performance Tweaks - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/performance-tweaks/files/6282561)
     - Stellar View - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/stellarview/files/7177902)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296)
-    - Wakes Reforged - [1.0.6](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7166099)
+    - Wakes Reforged - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7229304)
     - World Preview - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/world-preview/files/5686690)
   - Resourcepacks / Shaderpacks
     - none
@@ -42,7 +42,7 @@
     - Gnetum - [2.1.3](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/6636372) -> [2.3.1](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/7224441)
     - ImmediatelyFast - [1.5.1](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6745706) -> [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261)
     - JEBr - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/6991716) -> [2.3.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7195982)
-    - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.118](https://www.curseforge.com/minecraft/mc-mods/jei/files/7181650)
+    - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.121](https://www.curseforge.com/minecraft/mc-mods/jei/files/7229087)
     - Loot Journal - [4.0.2](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/5813449) -> [5.0.1](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/6998294)
     - ModernFix - [5.24.4](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6837713) -> [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213)
     - ModListMemory - [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/6282832) -> [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/7112105)
