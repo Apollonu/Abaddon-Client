@@ -83,6 +83,7 @@
     - none
   - Removals
     - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
+    - [Backported Wolves](https://www.curseforge.com/minecraft/mc-mods/backported-wolves)
     - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) + Config
     - [Caelum](https://www.curseforge.com/minecraft/mc-mods/caelum)
     - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy)
