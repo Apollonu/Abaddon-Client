@@ -66,6 +66,7 @@
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
     - [Lighty](https://www.curseforge.com/minecraft/mc-mods/lighty)
+    - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
     - [NERB](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
