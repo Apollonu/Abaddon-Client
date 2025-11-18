@@ -11,6 +11,7 @@
     - DamageVignette - [2.0.2](https://modrinth.com/mod/damagevignette/version/Ekre1nh1)
     - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
     - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
+    - Ixeris - [3.6.3](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7220848)
     - Lighty - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/lighty/files/5177516)
     - Performance Tweaks - [1.0.1](https://www.curseforge.com/minecraft/mc-mods/performance-tweaks/files/6282561)
     - Stellar View - [0.5.2](https://www.curseforge.com/minecraft/mc-mods/stellarview/files/7177902)
