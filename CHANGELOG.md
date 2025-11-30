@@ -22,7 +22,7 @@
     - none
 - Updates
   - Modpack
-    - Forge - [47.4.8](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.8/forge-1.20.1-47.4.8-changelog.txt) -> [47.4.10](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-changelog.txt)
+    - Forge - [47.4.8](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.8/forge-1.20.1-47.4.8-changelog.txt) -> [47.4.12](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.12/forge-1.20.1-47.4.12-changelog.txt)
   - Mods
     - 3D Skin Layers - [1.9.0](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/6879683) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/7091094)
     - All The Leaks - [1.0.4](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/6967574) -> [1.1.1](https://www.curseforge.com/minecraft/mc-mods/alltheleaks/files/7235989)
