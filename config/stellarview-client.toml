@@ -58,7 +58,7 @@
 				#Range: 0 ~ 100
 				shooting_star_chance = 5
 				#Uses the Vanilla Moon texture for rendering
-				vanilla_moon = true
+				vanilla_moon = false
 				#Specifies Sol X offset
 				#Range: -120 ~ 120
 				sol_x_offset = 0
