@@ -75,6 +75,7 @@
     - [Mellow Shader](https://www.curseforge.com/minecraft/shaders/mellow)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
+    - [ModListMemory](https://www.curseforge.com/minecraft/mc-mods/modlistmemory)
     - [NERB](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
     - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
     - [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview)
