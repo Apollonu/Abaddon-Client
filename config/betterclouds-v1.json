@@ -15,7 +15,7 @@
 	"windEffectFactor": 1.0,
 	"windSpeedFactor": 0.8,
 	"colorVariationFactor": 0.8,
-	"celestialBodyHalo": true,
+	"celestialBodyHalo": false,
 	"chunkSize": 32,
 	"samplingScale": 1.5,
 	"scaleFalloffMin": 0.25,
@@ -26,7 +26,7 @@
 	"irisSupport": true,
 	"cloudOverride": true,
 	"useIrisFBO": true,
-	"selectedPreset": 0,
+	"selectedPreset": 1,
 	"presets": [
 		{
 			"title": "Default",
