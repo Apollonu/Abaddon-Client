@@ -58,7 +58,7 @@
     - Sound of Rain - [0.4.0](https://www.curseforge.com/minecraft/mc-mods/the-sound-of-rain/files/6828299) -> [0.5.0](https://www.curseforge.com/minecraft/mc-mods/the-sound-of-rain/files/7171572)
     - Sound Physics Remastered - [1.4.15](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6809408) -> [1.5.1](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/7032235)
     - Structure Layout Optimizer- [1.0.10](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer/files/6125412) -> [1.0.11](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer/files/7139029)
-    - Subtle Effects - [1.12.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6857365) -> [1.13.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/7139104)
+    - Subtle Effects - [1.12.1](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/6857365) -> [1.13.2](https://www.curseforge.com/minecraft/mc-mods/subtle-effects/files/7283799)
     - ThreatenGL - [2.0.4](https://www.curseforge.com/minecraft/mc-mods/tgl/files/6793015) -> [2.0.4](https://www.curseforge.com/minecraft/mc-mods/tgl/files/7179999)
     - UniLib - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/unilib/files/6860397) -> [1.2.0](https://www.curseforge.com/minecraft/mc-mods/unilib/files/7145192)
     - Wavey Capes - [1.6.2](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/6860137) -> [1.8.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7215225)
