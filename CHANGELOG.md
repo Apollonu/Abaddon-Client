@@ -21,7 +21,7 @@
     - Wakes Reforged - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7229304)
     - World Preview - [1.3.1](https://www.curseforge.com/minecraft/mc-mods/world-preview/files/5686690)
   - Resourcepacks / Shaderpacks
-    - none
+    - Mellow Shader - [2.2.0](https://www.curseforge.com/minecraft/shaders/mellow/files/7091621)
 - Updates
   - Modpack
     - Forge - [47.4.8](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.8/forge-1.20.1-47.4.8-changelog.txt) -> [47.4.12](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.12/forge-1.20.1-47.4.12-changelog.txt)
@@ -65,12 +65,14 @@
   - Configs
     - [Better Clouds](https://www.curseforge.com/minecraft/mc-mods/better-clouds)
     - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music)
+    - [CTR VCR](https://www.curseforge.com/minecraft/shaders/ctr-vcr)
     - [DamageVignette](https://modrinth.com/mod/damagevignette)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
     - [Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
     - [Lighty](https://www.curseforge.com/minecraft/mc-mods/lighty)
+    - [Mellow Shader](https://www.curseforge.com/minecraft/shaders/mellow)
     - [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)
     - [Miniature Shader](https://www.curseforge.com/minecraft/shaders/miniature-shader)
     - [NERB](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
@@ -80,8 +82,9 @@
     - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged)
     - [World Preview](https://www.curseforge.com/minecraft/mc-mods/world-preview)
   - Resourcepacks / Shaderpacks
+    - CTR VCR - [1.2.3](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/6772057) -> [1.3.1](https://www.curseforge.com/minecraft/shaders/ctr-vcr/files/7235465)
     - Midnighttigger's Default Connected Textures - [7.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6747771) -> [8.0.0](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d/files/6913011)
-    - Miniature Shader - [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529) -> [2.18.4](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/7104824)
+    - Miniature Shader - [2.16.1](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/6857529) -> [2.18.5](https://www.curseforge.com/minecraft/shaders/miniature-shader/files/7216354)
 - Fixes
   - none
 - Reverts / Removals
@@ -96,6 +99,7 @@
     - [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy)
     - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) + Config + [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib)
     - [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
+    - [OPAL Shaders](https://www.curseforge.com/minecraft/shaders/opal-shaders)
     - [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
     - [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements) + Config
 </details>
