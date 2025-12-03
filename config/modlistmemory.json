@@ -1,8 +1,8 @@
 {
   "options": {
-    "mode": "REMEMBER_SCROLL",
+    "mode": "REMEMBER_RECENT",
     "pinnedModsSize": 5,
-    "recentModsSize": 0,
+    "recentModsSize": 3,
     "pinKey": "NONE",
     "unpinKey": "NONE",
     "showBadges": true,
