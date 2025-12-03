@@ -47,6 +47,7 @@
     - ImmediatelyFast - [1.5.1](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6745706) -> [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261)
     - JEBr - [2.1.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/6991716) -> [2.3.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7195982)
     - Just Enough Items - [15.20.0.112](https://www.curseforge.com/minecraft/mc-mods/jei/files/6600311) -> [15.20.0.127](https://www.curseforge.com/minecraft/mc-mods/jei/files/7270446)
+    - Kotlin for Forge - [4.11.0](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files/5402061) -> [4.12.0](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files/7291067)
     - Loot Journal - [4.0.2](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/5813449) -> [5.0.1](https://www.curseforge.com/minecraft/mc-mods/loot-journal/files/6998294)
     - ModernFix - [5.24.4](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/6837713) -> [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213)
     - ModListMemory - [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/6282832) -> [0.1.11](https://www.curseforge.com/minecraft/mc-mods/modlistmemory/files/7112105)
