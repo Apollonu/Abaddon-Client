@@ -69,7 +69,7 @@
 			affectedByMoonPhase = true
 			#Configure max moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
-			fullMoonBright = 0.46
+			fullMoonBright = 0.5
 			#Configure min moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
 			newMoonBright = 0.15
