@@ -67,6 +67,7 @@
     - [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music)
     - [DamageVignette](https://modrinth.com/mod/damagevignette)
     - [DefaultSettings](https://www.curseforge.com/minecraft/mc-mods/defaultsettings)
+    - [Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
     - [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations-legacy)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
     - [Lighty](https://www.curseforge.com/minecraft/mc-mods/lighty)
