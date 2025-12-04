@@ -1,6 +1,35 @@
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="">1.2.3</a> (Nightly)
+  Abaddon Client - <a href="">1.2.4</a> (Nightly)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - none
+  - Configs
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+
+<details close>
+<summary><h2>
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/7291524">1.2.3</a> (Current Release)
 </h2></summary><br>
 
 - Additions
@@ -108,7 +137,7 @@
 
 <details close>
 <summary><h2>
-  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6994405">1.2.2</a> (Current Release)
+  Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/6994405">1.2.2</a>
 </h2></summary><br>
 
 - Additions
