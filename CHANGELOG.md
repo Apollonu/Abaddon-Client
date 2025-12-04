@@ -26,7 +26,6 @@
     - none
 </details>
 
-
 <details close>
 <summary><h2>
   Abaddon Client - <a href="https://www.curseforge.com/minecraft/modpacks/abaddon-client/files/7291524">1.2.3</a> (Current Release)
