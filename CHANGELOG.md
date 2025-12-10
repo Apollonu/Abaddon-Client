@@ -14,7 +14,9 @@
   - Mods
     - Better ModList - [0.1.13](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/7054780) -> [0.1.14](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/7308252)
     - Cursors Extended - [3.11.2](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7222136) -> [3.11.2-patch.1](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7312244)
+    - EntityCulling - [1.9.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7167800) -> [1.9.4](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7313354)
     - ImmediatelyFast - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261) -> [1.5.3](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/7313094)
+    - Ixeris - [3.8.0](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7276692) -> [3.8.1](https://www.curseforge.com/projects/1285307)
     - JEBr - [2.3.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7195982) -> [2.4.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7311733)
     - ModernFix - [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213) -> [5.25.2](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7306749)
     - Save My Shaky Network - [1.3.4](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7233806) -> [1.3.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7301078)
