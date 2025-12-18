@@ -12,14 +12,23 @@
   - Modpack
     - none
   - Mods
+    - 3D Skin Layers - [1.9.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/7091094) -> [1.10.1](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/7322361)
+    - AmbientSounds - [6.1.11](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6570130) -> [6.3.1](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/7321586)
+    - BadOptimizations - [2.4.0](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/7269215) -> [2.4.1](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/7338200)
     - Better ModList - [0.1.13](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/7054780) -> [0.1.14](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/7308252)
     - Cursors Extended - [3.11.2](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7222136) -> [3.11.2-patch.1](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7312244)
     - EntityCulling - [1.9.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7167800) -> [1.9.4](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7313354)
+    - Fast IP Ping - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/6666671) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/7317271)
+    - Fzzy Config - [0.7.3](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7085017) -> [0.7.4](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7331237)
     - ImmediatelyFast - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261) -> [1.5.3](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/7313094)
-    - Ixeris - [3.8.0](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7276692) -> [3.8.1](https://www.curseforge.com/projects/1285307)
+    - Ixeris - [3.8.0](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7276692) -> [3.8.2](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7326600)
     - JEBr - [2.3.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7195982) -> [2.4.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7311733)
+    - MidnightLib - [1.9.1](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/7254893) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/7318663)
     - ModernFix - [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213) -> [5.25.2](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7306749)
+    - Not Enough Animations - [1.10.6](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7129302) -> [1.11.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7325366)
+    - Raised - [5.0.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7067732) -> [5.1.1](https://www.curseforge.com/minecraft/mc-mods/raised/files/7330822)
     - Save My Shaky Network - [1.3.4](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7233806) -> [1.3.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7301078)
+    - Wavey Capes - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7215225) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7322160)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
