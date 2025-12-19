@@ -30,7 +30,7 @@
     - Save My Shaky Network - [1.3.4](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7233806) -> [1.3.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7301078)
     - Wavey Capes - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7215225) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7322160)
   - Configs
-    - none
+    - [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
