@@ -19,6 +19,7 @@
     - Cursors Extended - [3.11.2](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7222136) -> [3.11.2-patch.1](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7312244)
     - EntityCulling - [1.9.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7167800) -> [1.9.4](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7313354)
     - Fast IP Ping - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/6666671) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/7317271)
+    - Fusion - [1.2.11a](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6923652) -> [1.2.11b](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/7353415)
     - Fzzy Config - [0.7.3](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7085017) -> [0.7.4](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7331237)
     - ImmediatelyFast - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261) -> [1.5.3](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/7313094)
     - Ixeris - [3.8.0](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7276692) -> [3.8.2](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7326600)
