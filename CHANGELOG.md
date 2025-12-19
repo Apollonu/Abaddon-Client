@@ -39,7 +39,7 @@
   - Reverts
     - none
   - Removals
-    - none
+    - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain) Config
 </details>
 
 <details close>
