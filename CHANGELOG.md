@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Particle Rain - [4.0.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7134900)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
