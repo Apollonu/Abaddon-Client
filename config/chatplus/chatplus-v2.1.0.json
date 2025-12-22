@@ -1,4 +1,5 @@
 {
+    "globalizedConfig": true,
     "enabled": true,
     "addMessagesIfDisabled": false,
     "showVanillaWhenUnfocused": false,
@@ -9,6 +10,7 @@
     "maxCommandSuggestions": 15,
     "jumpToMessageMode": "CURSOR",
     "selectChatLinePriority": 100,
+    "selectChatColor": -4533252,
     "timestampSettings": {
         "enabled": true,
         "timestampFormat": "&7Sent at &e{hh:mm:ss a}&7.",
@@ -20,6 +22,11 @@
         "clearQueueIfCloseOnEmpty": true,
         "autoFillCommandInteraction": "IGNORE",
         "queueMode": "OVERWRITE"
+    },
+    "messageImagePreviewSettings": {
+        "enabled": true,
+        "hasPreviewLinePriority": 20,
+        "previewLineColor": -932928701
     },
     "hideChatEnabled": false,
     "hideChatShowWhenFocused": true,
@@ -34,6 +41,9 @@
         "modifier": 0
     },
     "compactMessagesEnabled": true,
+    "compactMessagesFormat": " &7(%VALUE%)",
+    "compactMessagesSendAsNew": true,
+    "compactMessagesDeleteDuplicate": true,
     "compactMessagesRefreshAddedTime": false,
     "compactMessagesSearchAmount": 1,
     "compactMessageComparatorMode": "VANILLA",
@@ -54,88 +64,48 @@
             "font": true
         }
     },
-    "scrollbarEnabled": true,
+    "keyNoScroll": "key.keyboard.left.control",
+    "keyFineScroll": "key.keyboard.left.shift",
+    "keyLargeScroll": "key.keyboard.left.alt",
     "invertedScrolling": false,
+    "scrollbarEnabled": true,
     "scrollbarColor": -8354165,
     "scrollbarWidth": 6,
-    "animationEnabled": true,
+    "keyPeekChat": "key.keyboard.unknown",
+    "peekChatScrollingEnabled": true,
+    "animationEnabled": false,
     "animationDisableOnFocus": false,
     "animationNewMessageTransitionTime": 200,
+    "tabEditorScreen": true,
+    "windowEditorScreen": true,
     "scrollCycleTabEnabled": true,
     "arrowCycleTabEnabled": true,
     "moveToTabWhenCycling": true,
+    "inputBoxAutoAdjustChatWindowEnabled": true,
     "tabNotificationSettings": {
         "enabled": true,
+        "showCount": true,
+        "countColor": -1,
         "scale": 0.4
     },
-    "chatWindows": [
-        {
-            "generalSettings": {
-                "disabled": false,
-                "backgroundColor": -2147483648,
-                "unfocusedBackgroundColorOpacityMultiplier": 0.4,
-                "scale": 1.0,
-                "textOpacity": 1.0,
-                "textShadow": true,
-                "unfocusedTextOpacityMultiplier": 1.0,
-                "unfocusedHeight": 0.5,
-                "lineSpacing": 0.0,
-                "messageAlignment": "LEFT",
-                "messageDirection": "BOTTOM_UP"
-            },
-            "outlineSettings": {
-                "enabled": false,
-                "showWhenChatNotOpen": false,
-                "outlineColor": 0,
-                "unfocusedOutlineColorOpacityMultiplier": 0.4,
-                "outlineBoxType": "TEXT_BOX",
-                "outlineTabType": "SELECTED_TAB_OPEN_TOP"
-            },
-            "padding": {
-                "left": 0,
-                "right": 0,
-                "bottom": 0
-            },
-            "renderer": {
-                "x": 0,
-                "y": 480,
-                "width": 280,
-                "height": 180
-            },
-            "tabSettings": {
-                "selectedTabIndex": 0,
-                "startRenderTabIndex": 0,
-                "hideTabs": true,
-                "showTabsWhenChatNotOpen": false,
-                "tabTextColorSelected": -1,
-                "tabTextColorUnselected": -6710887,
-                "unfocusedTabOpacityMultiplier": 0.4,
-                "tabs": [
-                    {
-                        "pattern": "(?s).*",
-                        "formatted": false,
-                        "name": "All",
-                        "autoPrefix": "",
-                        "serverTabPatterns": [],
-                        "priority": 0,
-                        "alwaysAdd": true,
-                        "skipOthers": false,
-                        "commandsOverrideAutoPrefix": true,
-                        "temporary": false
-                    }
-                ]
-            },
-            "autoTabCreator": {
-                "autoTabOptions": []
-            }
-        }
-    ],
     "movableChatEnabled": false,
     "movableChatShowEnabledOnScreen": true,
-    "movableChatToggleKey": "key.keyboard.right.control",
+    "movableChatKey": {
+        "key": "key.keyboard.right.control",
+        "modifier": 0
+    },
     "movableChatColor": -922746881,
     "movableChatSelectedColor": -939458816,
     "movableChatToggleTextBarElement": false,
+    "inputBoxSettings": {
+        "startX": 2,
+        "startY": -10,
+        "width": -1,
+        "normalizeInputWhileTyping": false,
+        "maxInputBoxInputLength": 1280,
+        "showInputBoxInputLength": true,
+        "showInputBoxInputLengthBackgroundColor": 0
+    },
     "sendNoteEnabled": true,
     "sendNoteKey": {
         "key": "key.keyboard.enter",
@@ -167,18 +137,22 @@
     },
     "autoBookMarkPatterns": [],
     "findMessageEnabled": true,
-    "findMessageLinePriority": 250,
     "findMessageHighlightInputBox": false,
-    "findMessageTextBarElementEnabled": true,
+    "findMessageHighlightMatchedText": true,
+    "findMessageIgnoreCase": true,
+    "findMessageLinePriority": 250,
     "findMessageKey": {
         "key": "key.keyboard.f",
         "modifier": 2
     },
+    "findMessageDefaultMode": "CONTAINS",
+    "findMessageTextBarElementEnabled": true,
     "copyMessageKey": {
         "key": "key.keyboard.c",
         "modifier": 2
     },
     "copyMessageLinePriority": 50,
+    "copyWholeMessage": false,
     "copyNoFormatting": true,
     "copyMessageFormattingSymbolOverride": "",
     "copyMessageSeparator": "\n",
@@ -187,10 +161,16 @@
         "key": "key.keyboard.d",
         "modifier": 2
     },
+    "deleteMessageF3DMode": "SELECTED_TAB",
     "screenshotChatEnabled": true,
+    "screenshotChatScale": 1.0,
     "screenshotChatCopyToClipboard": true,
     "screenshotChatSaveToFile": true,
     "screenshotChatAutoUpload": true,
+    "screenshotChatAutoUploadSettings": {
+        "anonymousUpload": false,
+        "secret": ""
+    },
     "screenshotChatLinePriority": 200,
     "screenshotChatKey": {
         "key": "key.keyboard.s",
@@ -204,10 +184,6 @@
     "playerHeadChatDisplayShowOnWrapped": false,
     "playerHeadChatDisplayOffsetNonHeadMessages": false,
     "playerHeadChatDisplayOffsetNonHeadMessagesShowOnWrapped": true,
-    "keyNoScroll": "key.keyboard.left.control",
-    "keyFineScroll": "key.keyboard.left.shift",
-    "keyLargeScroll": "key.keyboard.left.alt",
-    "keyPeekChat": "key.keyboard.unknown",
     "translatorEnabled": true,
     "translatorTextBarElementEnabled": true,
     "translatorRegexes": [],
@@ -226,11 +202,94 @@
     "translateClickEnabled": true,
     "speechToTextEnabled": true,
     "speechToTextToInputBox": true,
+    "speechToTextCharset": "UTF-8",
     "speechToTextMicrophoneKey": "key.keyboard.b",
     "speechToTextQuickSendKey": "key.keyboard.enter",
     "speechToTextTranslateEnabled": false,
     "speechToTextTranslateToInputBox": true,
     "speechToTextTranslateLang": "English",
+    "speechToTextAutoReplacePlayers": true,
+    "speechToTextAutoReplacePlayersMaxSearchDepth": 3,
+    "speechToTextReplace": [],
+    "chatWindows": [
+        {
+            "generalSettings": {
+                "disabled": false,
+                "backgroundColor": -2147483648,
+                "unfocusedBackgroundColorOpacityMultiplier": 0.4,
+                "scale": 1.0,
+                "textOpacity": 1.0,
+                "textShadow": true,
+                "unfocusedTextOpacityMultiplier": 1.0,
+                "unfocusedHeight": 0.5,
+                "lineSpacing": 0.0,
+                "messageAlignment": "LEFT",
+                "messageDirection": "BOTTOM_UP",
+                "topDownDirectionWrapInOrder": true,
+                "resetScrollPositionOnClose": true
+            },
+            "outlineSettings": {
+                "enabled": false,
+                "showWhenChatNotOpen": false,
+                "outlineColor": 0,
+                "unfocusedOutlineColorOpacityMultiplier": 0.4,
+                "outlineBoxType": "TEXT_BOX",
+                "outlineTabType": "SELECTED_TAB_OPEN_TOP"
+            },
+            "padding": {
+                "left": 0,
+                "right": 0,
+                "bottom": 0
+            },
+            "renderer": {
+                "x": 0,
+                "y": 480,
+                "width": 280,
+                "height": 180
+            },
+            "tabSettings": {
+                "selectedTabIndex": 0,
+                "startRenderTabIndex": 0,
+                "hideTabs": true,
+                "showTabsWhenChatNotOpen": false,
+                "position": "BOTTOM",
+                "tabTextColorSelected": -1,
+                "tabTextColorUnselected": -6710887,
+                "unfocusedTabOpacityMultiplier": 0.4,
+                "tabs": [
+                    {
+                        "settings": [
+                            {
+                                "pattern": "(?s).*",
+                                "formatted": false,
+                                "serverPattern": {
+                                    "pattern": ""
+                                },
+                                "name": "All",
+                                "autoSend": "",
+                                "autoPrefix": "",
+                                "priority": 0,
+                                "alwaysAdd": true,
+                                "skipOthers": false,
+                                "commandsOverrideAutoPrefix": true,
+                                "suggestionsPatterns": [],
+                                "notificationSettings": {
+                                    "disableNotifications": false,
+                                    "notificationMatch": {
+                                        "pattern": "(?s).*",
+                                        "formatted": false
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "autoTabCreator": {
+                "autoTabOptions": []
+            }
+        }
+    ],
     "speechToTextSampleRate": 48000,
     "speechToTextMicrophone": "Default",
     "speechToTextSelectedAudioModel": ""
