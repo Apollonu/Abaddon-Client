@@ -5,6 +5,7 @@
 
 - Additions
   - Mods
+    - Chat Animation - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/chatanimation/files/7325643)
     - Particle Rain - [4.0.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7134900)
   - Resourcepacks / Shaderpacks
     - none
@@ -31,6 +32,7 @@
     - Save My Shaky Network - [1.3.4](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7233806) -> [1.3.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7301078)
     - Wavey Capes - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7215225) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7322160)
   - Configs
+    - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
     - [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
   - Resourcepacks / Shaderpacks
     - none
@@ -40,6 +42,7 @@
   - Reverts
     - none
   - Removals
+    - [Chat Impressive Animation](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation)
     - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain) Config
 </details>
 
