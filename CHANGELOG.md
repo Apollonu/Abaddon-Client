@@ -6,6 +6,7 @@
 - Additions
   - Mods
     - Chat Animation - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/chatanimation/files/7325643)
+    - Chunks Fade In - [3.0.18](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7364905)
     - Particle Rain - [4.0.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7134900)
   - Resourcepacks / Shaderpacks
     - none
