@@ -7,7 +7,7 @@
   - Mods
     - Chat Animation - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/chatanimation/files/7325643)
     - Chunks Fade In - [3.0.18](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7364905)
-    - Particle Rain - [4.0.0-beta.3](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7134900)
+    - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
@@ -18,19 +18,24 @@
     - AmbientSounds - [6.1.11](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6570130) -> [6.3.1](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/7321586)
     - BadOptimizations - [2.4.0](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/7269215) -> [2.4.1](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/7338200)
     - Better ModList - [0.1.13](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/7054780) -> [0.1.14](https://www.curseforge.com/minecraft/mc-mods/better-modlist-neoforge/files/7308252)
+    - CameraOverhaul - [2.0.5](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul/files/7257543) -> [2.0.6](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul/files/7364631)
     - Cursors Extended - [3.11.2](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7222136) -> [3.11.2-patch.1](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor/files/7312244)
     - EntityCulling - [1.9.3](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7167800) -> [1.9.4](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/7313354)
+    - Extreme Sound Muffler - [3.49.1](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/6526566) -> [3.49.2](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/7371008)
     - Fast IP Ping - [1.0.7](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/6666671) -> [1.0.8](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping/files/7317271)
-    - Fusion - [1.2.11a](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6923652) -> [1.2.11b](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/7353415)
+    - Fusion - [1.2.11a](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/6923652) -> [1.2.11c](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/7358298)
     - Fzzy Config - [0.7.3](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7085017) -> [0.7.4](https://www.curseforge.com/minecraft/mc-mods/fzzy-config/files/7331237)
+    - Gnetum - [2.3.4](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/7270480) -> [2.3.5](https://www.curseforge.com/minecraft/mc-mods/gnetum/files/7383869)
     - ImmediatelyFast - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261) -> [1.5.3](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/7313094)
-    - Ixeris - [3.8.0](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7276692) -> [3.8.2](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7326600)
+    - Ixeris - [3.8.2](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7326600) -> [3.8.3](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7380965)
     - JEBr - [2.3.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7195982) -> [2.4.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7311733)
+    - Just Enough Items - [15.20.0.127](https://www.curseforge.com/minecraft/mc-mods/jei/files/7270446) -> [15.20.0.128](https://www.curseforge.com/minecraft/mc-mods/jei/files/7361881)
     - MidnightLib - [1.9.1](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/7254893) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/7318663)
     - ModernFix - [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213) -> [5.25.2](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7306749)
     - Not Enough Animations - [1.10.6](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7129302) -> [1.11.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7325366)
-    - Raised - [5.0.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7067732) -> [5.1.1](https://www.curseforge.com/minecraft/mc-mods/raised/files/7330822)
+    - Raised - [5.0.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7067732) -> [5.1.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7379932)
     - Save My Shaky Network - [1.3.4](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7233806) -> [1.3.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7301078)
+    - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296) -> [1.4.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7357419)
     - Wavey Capes - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7215225) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7322160)
   - Configs
     - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
