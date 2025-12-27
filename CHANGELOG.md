@@ -9,6 +9,7 @@
     - Chunks Fade In - [3.0.18](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7364905)
     - EfficientHashing - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/efficient-hashing/files/7271537)
     - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
+    - Smooth Gui - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/smooth-gui/files/7324337)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
@@ -41,6 +42,7 @@
   - Configs
     - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
     - [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
+    - [Smooth Gui](https://www.curseforge.com/minecraft/mc-mods/smooth-gui)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
