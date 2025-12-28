@@ -7,6 +7,7 @@
   - Mods
     - Chat Animation - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/chatanimation/files/7325643)
     - Chunks Fade In - [3.0.18](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7364905)
+    - chunky chunks! - [2.2.0](https://www.curseforge.com/minecraft/mc-mods/cc-s/files/6989022)
     - EfficientHashing - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/efficient-hashing/files/7271537)
     - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
     - Smooth Gui - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/smooth-gui/files/7324337)
