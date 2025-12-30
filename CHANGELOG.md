@@ -43,6 +43,7 @@
   - Configs
     - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
     - [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
+    - [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
     - [Smooth Gui](https://www.curseforge.com/minecraft/mc-mods/smooth-gui)
   - Resourcepacks / Shaderpacks
     - none
