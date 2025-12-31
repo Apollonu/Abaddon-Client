@@ -10,8 +10,10 @@
     - chunky chunks! - [2.2.0](https://www.curseforge.com/minecraft/mc-mods/cc-s/files/6989022)
     - EfficientHashing - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/efficient-hashing/files/7271537)
     - ExtraSounds Next - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge/files/6374963)
+    - Krypton FNP - [0.2.27](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp/files/7381700)
     - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
     - Smooth Gui - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/smooth-gui/files/7324337)
+    - TooManyRecipeViewers - [0.7.0](https://www.curseforge.com/minecraft/mc-mods/tmrv/files/7259315)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
@@ -33,7 +35,6 @@
     - ImmediatelyFast - [1.5.2](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6997261) -> [1.5.3](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/7313094)
     - Ixeris - [3.8.2](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7326600) -> [3.8.3](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7380965)
     - JEBr - [2.3.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7195982) -> [2.4.0](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/7311733)
-    - Just Enough Items - [15.20.0.127](https://www.curseforge.com/minecraft/mc-mods/jei/files/7270446) -> [15.20.0.128](https://www.curseforge.com/minecraft/mc-mods/jei/files/7361881)
     - MidnightLib - [1.9.1](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/7254893) -> [1.9.2](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/7318663)
     - ModernFix - [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213) -> [5.25.2](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7306749)
     - Not Enough Animations - [1.10.6](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7129302) -> [1.11.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7325366)
@@ -55,6 +56,8 @@
     - none
   - Removals
     - [Chat Impressive Animation](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation)
+    - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+    - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
     - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain) Config
     - [Sounds](https://www.curseforge.com/minecraft/mc-mods/sound)
 </details>
