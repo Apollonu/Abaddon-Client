@@ -39,13 +39,14 @@
     - ModernFix - [5.25.1](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7200213) -> [5.25.2](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/7306749)
     - Not Enough Animations - [1.10.6](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7129302) -> [1.11.1](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files/7325366)
     - Raised - [5.0.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7067732) -> [5.1.2](https://www.curseforge.com/minecraft/mc-mods/raised/files/7379932)
-    - Save My Shaky Network - [1.3.4](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7233806) -> [1.3.5](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7301078)
+    - Save My Shaky Network - [1.3.4](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7233806) -> [1.3.6](https://www.curseforge.com/minecraft/mc-mods/smsn/files/7399448)
     - Tooltip Overhaul - [1.3.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7096296) -> [1.4.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7357419)
     - Wavey Capes - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7215225) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7322160)
   - Configs
     - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
     - [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
     - [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
+    - [Save My Shaky Network](https://www.curseforge.com/minecraft/mc-mods/smsn)
     - [Smooth Gui](https://www.curseforge.com/minecraft/mc-mods/smooth-gui)
   - Resourcepacks / Shaderpacks
     - none
