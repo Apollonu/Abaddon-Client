@@ -44,6 +44,7 @@
     - Wavey Capes - [1.8.0](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7215225) -> [1.8.1](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/7322160)
   - Configs
     - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
+    - [Chunks fade in](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in)
     - [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
     - [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
     - [Save My Shaky Network](https://www.curseforge.com/minecraft/mc-mods/smsn)
