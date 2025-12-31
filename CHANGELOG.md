@@ -9,6 +9,7 @@
     - Chunks Fade In - [3.0.18](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7364905)
     - chunky chunks! - [2.2.0](https://www.curseforge.com/minecraft/mc-mods/cc-s/files/6989022)
     - EfficientHashing - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/efficient-hashing/files/7271537)
+    - ExtraSounds Next - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge/files/6374963)
     - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
     - Smooth Gui - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/smooth-gui/files/7324337)
   - Resourcepacks / Shaderpacks
@@ -55,6 +56,7 @@
   - Removals
     - [Chat Impressive Animation](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation)
     - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain) Config
+    - [Sounds](https://www.curseforge.com/minecraft/mc-mods/sound)
 </details>
 
 <details close>
