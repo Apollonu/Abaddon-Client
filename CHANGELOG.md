@@ -14,7 +14,7 @@
   - Mods
     - none
   - Configs
-    - none
+    - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
