@@ -6,11 +6,13 @@
 - Additions
   - Mods
     - Chat Animation - [1.1.3](https://www.curseforge.com/minecraft/mc-mods/chatanimation/files/7325643)
+    - Compressed Engineering - [1.4.5](https://www.curseforge.com/minecraft/mc-mods/compressed-engineering/files/7282354)
     - Chunks Fade In - [3.0.19](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7401071)
     - chunky chunks! - [2.2.0](https://www.curseforge.com/minecraft/mc-mods/cc-s/files/6989022)
     - EfficientHashing - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/efficient-hashing/files/7271537)
     - ExtraSounds Next - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge/files/6374963)
     - Fast Recipe Search - [1.6.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7391120)
+    - Immersive Fixes - [1.0.3](https://www.curseforge.com/minecraft/mc-mods/immersive-fixes/files/7119124)
     - Item Highlighter - [1.1.9](https://www.curseforge.com/minecraft/mc-mods/item-highlighter/files/4985588)
     - Krypton FNP - [0.2.27](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp/files/7381700)
     - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
