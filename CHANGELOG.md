@@ -9,7 +9,8 @@
     - Chunks Fade In - [3.0.19](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7401071)
     - chunky chunks! - [2.2.0](https://www.curseforge.com/minecraft/mc-mods/cc-s/files/6989022)
     - EfficientHashing - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/efficient-hashing/files/7271537)
-    - ExtraSounds Next - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge/files/6374963)
+    - ExtraSounds Next - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge/files/6374963)\
+    - Fast Recipe Search - [1.6.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7391120)
     - Krypton FNP - [0.2.27](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp/files/7381700)
     - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
     - Smooth Gui - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/smooth-gui/files/7324337)
@@ -59,6 +60,7 @@
     - none
   - Removals
     - [Chat Impressive Animation](https://www.curseforge.com/minecraft/mc-mods/chat-impressive-animation)
+    - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
     - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
     - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
     - [Pretty Rain](https://www.curseforge.com/minecraft/mc-mods/pretty-rain) Config
