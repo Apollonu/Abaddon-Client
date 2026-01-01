@@ -11,6 +11,7 @@
     - EfficientHashing - [1.0.0](https://www.curseforge.com/minecraft/mc-mods/efficient-hashing/files/7271537)
     - ExtraSounds Next - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge/files/6374963)
     - Fast Recipe Search - [1.6.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7391120)
+    - Item Highlighter - [1.1.9](https://www.curseforge.com/minecraft/mc-mods/item-highlighter/files/4985588)
     - Krypton FNP - [0.2.27](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp/files/7381700)
     - Particle Rain - [4.0.0-beta.5](https://www.curseforge.com/minecraft/mc-mods/particle-rain/files/7378848)
     - Smooth Gui - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/smooth-gui/files/7324337)
@@ -47,6 +48,7 @@
   - Configs
     - [ChatPlus](https://www.curseforge.com/minecraft/mc-mods/chat-plus)
     - [Chunks fade in](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in)
+    - [Highlighter](https://www.curseforge.com/minecraft/mc-mods/item-highlighter)
     - [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
     - [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
     - [Save My Shaky Network](https://www.curseforge.com/minecraft/mc-mods/smsn)
