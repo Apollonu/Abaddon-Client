@@ -12,7 +12,11 @@
   - Modpack
     - none
   - Mods
-    - none
+    - Balm - [7.3.35](https://www.curseforge.com/minecraft/mc-mods/balm/files/6978679) -> [7.3.38](https://www.curseforge.com/minecraft/mc-mods/balm/files/7420617)
+    - Controllable - [0.21.7](https://www.curseforge.com/minecraft/mc-mods/controllable/files/6171424) -> [0.21.8](https://www.curseforge.com/minecraft/mc-mods/controllable/files/7411282)
+    - Dynamic FPS - [3.9.5](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6662027) -> [3.11.3](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/7412979)
+    - Ixeris - [3.8.4](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7386717) -> [3.8.5](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7410355)
+    - Just Enough Items - [15.20.0.127](https://www.curseforge.com/minecraft/mc-mods/jei/files/7270446) -> [15.20.0.129](https://www.curseforge.com/minecraft/mc-mods/jei/files/7391695)
   - Configs
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
   - Resourcepacks / Shaderpacks
@@ -21,9 +25,9 @@
   - none
 - Reverts / Removals
   - Reverts
-    - none
+    - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
   - Removals
-    - none
+    - [TooManyRecipeViewers](https://www.curseforge.com/minecraft/mc-mods/tmrv)
 </details>
 
 <details close>
