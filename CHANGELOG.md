@@ -5,6 +5,7 @@
 
 - Additions
   - Mods
+    - Crosshair Bobbing - [1.10.0](https://www.curseforge.com/minecraft/mc-mods/xbob/files/6159805)
     - Doppler - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/doppler/files/7374314)
   - Resourcepacks / Shaderpacks
     - none
@@ -18,6 +19,7 @@
     - Ixeris - [3.8.4](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7386717) -> [3.8.5](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7410355)
     - Just Enough Items - [15.20.0.127](https://www.curseforge.com/minecraft/mc-mods/jei/files/7270446) -> [15.20.0.129](https://www.curseforge.com/minecraft/mc-mods/jei/files/7391695)
   - Configs
+    - [Crosshair Bobbing](https://www.curseforge.com/minecraft/mc-mods/xbob)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
   - Resourcepacks / Shaderpacks
     - none
