@@ -5,7 +5,7 @@
 
 - Additions
   - Mods
-    - none
+    - Doppler - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/doppler/files/7374314)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
