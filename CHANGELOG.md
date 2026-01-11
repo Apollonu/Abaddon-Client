@@ -13,9 +13,12 @@
   - Modpack
     - none
   - Mods
+    - AmbientSounds - [6.1.11](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/6570130) -> [6.3.3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/7436598)
     - Balm - [7.3.35](https://www.curseforge.com/minecraft/mc-mods/balm/files/6978679) -> [7.3.38](https://www.curseforge.com/minecraft/mc-mods/balm/files/7420617)
+    - Chunks Fade In - [3.0.19](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7401071) -> [3.0.20](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7442738)
     - Controllable - [0.21.7](https://www.curseforge.com/minecraft/mc-mods/controllable/files/6171424) -> [0.21.8](https://www.curseforge.com/minecraft/mc-mods/controllable/files/7411282)
     - Dynamic FPS - [3.9.5](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6662027) -> [3.11.3](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/7412979)
+    - Fast Recipe Search - [1.6.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7391120) -> [1.7.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7441000)
     - Ixeris - [3.8.4](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7386717) -> [3.8.5](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7410355)
     - Just Enough Items - [15.20.0.127](https://www.curseforge.com/minecraft/mc-mods/jei/files/7270446) -> [15.20.0.129](https://www.curseforge.com/minecraft/mc-mods/jei/files/7391695)
   - Configs
