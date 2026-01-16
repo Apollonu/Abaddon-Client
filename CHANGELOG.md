@@ -18,9 +18,12 @@
     - Chunks Fade In - [3.0.19](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7401071) -> [3.0.20](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in/files/7442738)
     - Controllable - [0.21.7](https://www.curseforge.com/minecraft/mc-mods/controllable/files/6171424) -> [0.21.8](https://www.curseforge.com/minecraft/mc-mods/controllable/files/7411282)
     - Dynamic FPS - [3.9.5](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6662027) -> [3.11.3](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/7412979)
+    - Extreme Sound Muffler - [3.49.2](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/7371008) -> [3.51.0](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/7469697)
     - Fast Recipe Search - [1.6.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7391120) -> [1.7.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7441000)
+    - Fusion - [1.2.11c](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/7358298) -> [1.2.12](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/7464539)
     - Ixeris - [3.8.4](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7386717) -> [3.8.5](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7410355)
     - Just Enough Items - [15.20.0.127](https://www.curseforge.com/minecraft/mc-mods/jei/files/7270446) -> [15.20.0.129](https://www.curseforge.com/minecraft/mc-mods/jei/files/7391695)
+    - Krypton FNP - [0.2.27](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp/files/7381700) -> [0.2.28.2](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp/files/7464032)
   - Configs
     - [Crosshair Bobbing](https://www.curseforge.com/minecraft/mc-mods/xbob)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
