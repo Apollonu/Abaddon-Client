@@ -27,6 +27,7 @@
   - Configs
     - [Crosshair Bobbing](https://www.curseforge.com/minecraft/mc-mods/xbob)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
+    - [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
