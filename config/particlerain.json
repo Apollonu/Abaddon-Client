@@ -481,7 +481,7 @@
       "usePresetParticle": true,
       "id": "mist_after_rain",
       "enabled": true,
-      "density": 0.1,
+      "density": 0.013,
       "weather": "AFTER_WEATHER",
       "precipitation": [
         "RAIN"
@@ -522,7 +522,7 @@
       "usePresetParticle": true,
       "id": "mist",
       "enabled": true,
-      "density": 0.1,
+      "density": 0.010000001,
       "weather": "ALWAYS",
       "precipitation": [
         "RAIN"
