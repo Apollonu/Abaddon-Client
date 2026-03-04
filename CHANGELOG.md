@@ -52,6 +52,7 @@
     - [Chunks Fade In](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in)
     - [Crosshair Bobbing](https://www.curseforge.com/minecraft/mc-mods/xbob)
     - [Doppler](https://www.curseforge.com/minecraft/mc-mods/doppler)
+    - [Drip Sounds](https://www.curseforge.com/minecraft/mc-mods/dripsounds)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
     - [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core)
     - [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
