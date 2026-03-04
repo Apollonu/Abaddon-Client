@@ -25,6 +25,7 @@
     - CraftPresence - [2.7.0](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/7146452) -> [2.7.1](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/7704742)
     - CreativeCore - [2.12.32](https://www.curseforge.com/minecraft/mc-mods/creativecore/files/6383884) -> [2.12.35](https://www.curseforge.com/minecraft/mc-mods/creativecore/files/7649757)
     - Cupboard - [2.7.0](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470032) -> [3.0.0](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/7605004)
+    - Drip Sounds - [0.3.2](https://www.curseforge.com/minecraft/mc-mods/waterdripsound/files/4579519) -> [0.5.2](https://www.curseforge.com/minecraft/mc-mods/dripsounds/files/7251810)
     - Dynamic FPS - [3.9.5](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/6662027) -> [3.11.4](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/7546908)
     - Extreme Sound Muffler - [3.49.2](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/7371008) -> [3.51.0](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/7469697)
     - Fast Recipe Search - [1.6.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7391120) -> [26.1.0](https://www.curseforge.com/minecraft/mc-mods/fast-recipe-search/files/7565972)
