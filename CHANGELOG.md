@@ -49,6 +49,7 @@
     - Wakes Reforged - [1.0.8](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7393944) -> [1.0.9](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7494279)
     - UniLib - [1.2.0](https://www.curseforge.com/minecraft/mc-mods/unilib/files/7145192) -> [1.2.1](https://www.curseforge.com/minecraft/mc-mods/unilib/files/7703340)
   - Configs
+    - [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles)
     - [Chunks Fade In](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in)
     - [Crosshair Bobbing](https://www.curseforge.com/minecraft/mc-mods/xbob)
     - [Doppler](https://www.curseforge.com/minecraft/mc-mods/doppler)
