@@ -64,6 +64,7 @@
   - Reverts
     - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
   - Removals
+    - [FastEvent](https://www.curseforge.com/minecraft/mc-mods/fast-event)
     - [TooManyRecipeViewers](https://www.curseforge.com/minecraft/mc-mods/tmrv)
 </details>
 
