@@ -42,8 +42,11 @@
     - Tooltip Overhaul - [1.4.0](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7357419) -> [1.4.2](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul/files/7548782)
     - Wakes Reforged - [1.0.8](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7393944) -> [1.0.9](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/7494279)
   - Configs
+    - [Chunks Fade In](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in)
     - [Crosshair Bobbing](https://www.curseforge.com/minecraft/mc-mods/xbob)
+    - [Doppler](https://www.curseforge.com/minecraft/mc-mods/doppler)
     - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (Mod Icons)
+    - [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core)
     - [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
   - Resourcepacks / Shaderpacks
     - none
