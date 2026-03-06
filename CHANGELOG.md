@@ -67,6 +67,7 @@
     - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
   - Removals
     - [FastEvent](https://www.curseforge.com/minecraft/mc-mods/fast-event)
+    - [HorseStatsMod](https://www.curseforge.com/minecraft/mc-mods/horse-statistics) + Config
     - [TooManyRecipeViewers](https://www.curseforge.com/minecraft/mc-mods/tmrv)
     - [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin)
 </details>
