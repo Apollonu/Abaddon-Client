@@ -68,6 +68,7 @@
   - Removals
     - [FastEvent](https://www.curseforge.com/minecraft/mc-mods/fast-event)
     - [TooManyRecipeViewers](https://www.curseforge.com/minecraft/mc-mods/tmrv)
+    - [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin)
 </details>
 
 <details close>
