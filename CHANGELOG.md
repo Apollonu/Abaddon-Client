@@ -66,6 +66,7 @@
   - Reverts
     - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
   - Removals
+    - [2D Projectiles](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles)
     - [FastEvent](https://www.curseforge.com/minecraft/mc-mods/fast-event)
     - [HorseStatsMod](https://www.curseforge.com/minecraft/mc-mods/horse-statistics) + Config
     - [TooManyRecipeViewers](https://www.curseforge.com/minecraft/mc-mods/tmrv)
@@ -157,7 +158,7 @@
     - Better World Loading - [1.0.0](https://modrinth.com/mod/better-world-loading/version/1.0-forge) + MidnightLib - [1.9.1](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/7254893)
     - DamageVignette - [2.0.2](https://modrinth.com/mod/damagevignette/version/Ekre1nh1)
     - ForgedPaginatedAdvancements - [0.0.2](https://www.curseforge.com/minecraft/mc-mods/forgedpaginatedadvancements/files/7127752)
-    - Gaura's 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
+    - 2D Projectiles - [1.1.1](https://www.curseforge.com/minecraft/mc-mods/twod-projectiles/files/6963135)
     - Ixeris - [3.8.0](https://www.curseforge.com/minecraft/mc-mods/ixeris/files/7276692)
     - LightSpeedRe - [1.1.2hotfix](https://www.curseforge.com/minecraft/mc-mods/lightspeedre-launch-optimizations/files/7274648)
     - Lighty - [2.1.2](https://www.curseforge.com/minecraft/mc-mods/lighty/files/5177516)
